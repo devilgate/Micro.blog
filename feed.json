@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2023/04/09/conventions-conventionally-drink.html",
+				
+				"content_html": "<p>Conventions conventionally drink the real-ale bar dry too early.</p>\n<p>Here at Eastercon, apparently we’ve drunk the bar dry…</p>\n<p>… of low-alcohol beers.</p>\n",
+				"content_text": "Conventions conventionally drink the real-ale bar dry too early. \n\nHere at Eastercon, apparently we’ve drunk the bar dry…\n\n… of low-alcohol beers. \n",
+				"date_published": "2023-04-09T00:02:19+01:00",
+				"url": "https://devilgate.org/2023/04/09/conventions-conventionally-drink.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/04/07/on-my-way.html",
+				
+				"content_html": "<p>On my way to Birmingham for Eastercon. Been a few years since I’ve been to a con. It’ll be good to see folk.</p>\n",
+				"content_text": "On my way to Birmingham for Eastercon. Been a few years since I’ve been to a con. It’ll be good to see folk. \n",
+				"date_published": "2023-04-07T11:49:07+01:00",
+				"url": "https://devilgate.org/2023/04/07/on-my-way.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/04/06/just-after-midnight.html",
+				
+				"content_html": "<p>Just after midnight last night I finished my novel, <!-- raw HTML omitted -->Casino Soul<!-- raw HTML omitted -->. The first draft, anyway, or maybe only the zeroth draft. There&rsquo;s a lot to do to make it anywhere close to <em>good</em>.</p>\n<p>But that can wait for later. For now I&rsquo;m feeling a combination of elation and deflation.</p>\n<p>92,000 words and two years elapsed. Writing takes time.</p>\n",
+				"content_text": "Just after midnight last night I finished my novel, <cite>Casino Soul</cite>. The first draft, anyway, or maybe only the zeroth draft. There's a lot to do to make it anywhere close to _good_.\n\nBut that can wait for later. For now I'm feeling a combination of elation and deflation.\n\n92,000 words and two years elapsed. Writing takes time.\n",
+				"date_published": "2023-04-06T07:38:28+01:00",
+				"url": "https://devilgate.org/2023/04/06/just-after-midnight.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/04/02/a-god-in.html",
+				"title": "A God in Ruins by Kate Atkinson (Books 2023, 6) 📚",
+				"content_html": "<p>Atkinson&rsquo;s <!-- raw HTML omitted -->Life After Life<!-- raw HTML omitted --> was the <a href=\"https://devilgate.org/2014/03/26/the-first-three.html\">wonderful</a> story of Ursula Todd, who kept repeating her life, dying in different ways each time. One interpretation or explanation for this strange experience is that she was trying to create (or find, or reach) a version of her life in which her beloved brother Teddy survives the Second World War and lives to grow old.</p>\n<p><a href=\"https://micro.blog/books/9780385618700\"><!-- raw HTML omitted -->A God in Ruins<!-- raw HTML omitted --></a> is the story of that timeline.</p>\n<p>Or maybe a couple of timelines. While this is in most ways a more straightforward tale than its predecessor, we do see two or three possible different endings for Teddy. It&rsquo;s also about his descendants: his daughter the infuriating Viola, and her two children. It&rsquo;s kind of a redemption tale for some characters.</p>\n<p>I enjoyed the bits about Teddy&rsquo;s wartime expreiences as a bomber pilot most. Overall it&rsquo;s not as good as <!-- raw HTML omitted -->Life After Life<!-- raw HTML omitted -->, but not bad.</p>\n",
+				"content_text": "Atkinson's <cite>Life After Life</cite> was the [wonderful](https://devilgate.org/2014/03/26/the-first-three.html) story of Ursula Todd, who kept repeating her life, dying in different ways each time. One interpretation or explanation for this strange experience is that she was trying to create (or find, or reach) a version of her life in which her beloved brother Teddy survives the Second World War and lives to grow old.\n\n[<cite>A God in Ruins</cite>](https://micro.blog/books/9780385618700) is the story of that timeline.\n\nOr maybe a couple of timelines. While this is in most ways a more straightforward tale than its predecessor, we do see two or three possible different endings for Teddy. It's also about his descendants: his daughter the infuriating Viola, and her two children. It's kind of a redemption tale for some characters.\n\nI enjoyed the bits about Teddy's wartime expreiences as a bomber pilot most. Overall it's not as good as <cite>Life After Life</cite>, but not bad.\n",
+				"date_published": "2023-04-02T13:19:55+01:00",
+				"url": "https://devilgate.org/2023/04/02/a-god-in.html",
+				"tags": ["books","kate atkinson","books 2023"]
+			},
+			{
 				"id": "http://devilgate.micro.blog/2023/03/31/extremely-rare-software.html",
 				
 				"content_html": "<p>Extremely rare software update this morning: Scrivener for Mac updated to version 3.3. A huge number of changes from 3.2.3, and I can&rsquo;t help but wonder if they&rsquo;d be better off doing more frequent, smaller updates, just so we know they&rsquo;re still there.</p>\n<p>The best writing app.</p>\n",
