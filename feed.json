@@ -12926,8 +12926,8 @@
 			{
 				"id": "http://devilgate.micro.blog/2008/07/31/whats-that-stand.html",
 				"title": "What's that stand for?",
-				"content_html": "<!-- raw HTML omitted -->\n<p>Tip: it&rsquo;s <em>uniform</em>, not universal.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\n<html><body><p>I remember several years ago when the right answer to this was given wrong on ??University Challenge??; but you'd think that, after all this time, ??The Guardian??'s *Technology* section would \"know what URL stands for\":[www.guardian.co.uk/technolog...](http://www.guardian.co.uk/technology/2008/jul/31/internet.technology.)\n\nTip: it's _uniform_, not universal.\n\n</p></body></html>\n",
+				"content_html": "<p>I remember several years ago when the right answer to this was given wrong on <!-- raw HTML omitted -->University Challenge<!-- raw HTML omitted -->; but you&rsquo;d think that, after all this time, <!-- raw HTML omitted -->The Guardian<!-- raw HTML omitted -->&rsquo;s <em>Technology</em> section would <a href=\"http://www.guardian.co.uk/technology/2008/jul/31/internet.technology\">know what URL stands for</a>.</p>\n<p>Tip: it&rsquo;s <em>uniform</em>, not universal.</p>\n",
+				"content_text": "I remember several years ago when the right answer to this was given wrong on <cite>University Challenge</cite>; but you'd think that, after all this time, <cite>The Guardian</cite>'s *Technology* section would [know what URL stands for](http://www.guardian.co.uk/technology/2008/jul/31/internet.technology).\n\nTip: it's _uniform_, not universal.\n",
 				"date_published": "2008-07-31T10:31:28+01:00",
 				"url": "https://devilgate.org/2008/07/31/whats-that-stand.html",
 				"tags": ["aside"]
