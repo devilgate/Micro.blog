@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2023/09/06/speaking-of-chatgpt.html",
+				
+				"content_html": "<p><a href=\"https://devilgate.org/2023/09/06/dave-winer-i.html\"> Speaking of ChatGPT</a>, I like <a href=\"https://pluralistic.net/2023/09/05/not-that-naomi/\">Cory Doctorow’s explanation of it and its cousins from his latest piece</a>:</p>\n<blockquote>\n<p>AI chatbots are mirrors of experts, only instead of giving you informed opinions, they plagiarize sentence-fragments into statistically plausible paragraphs.</p>\n</blockquote>\n",
+				"content_text": "[ Speaking of ChatGPT](https://devilgate.org/2023/09/06/dave-winer-i.html), I like [Cory Doctorow’s explanation of it and its cousins from his latest piece](https://pluralistic.net/2023/09/05/not-that-naomi/):\n\n> AI chatbots are mirrors of experts, only instead of giving you informed opinions, they plagiarize sentence-fragments into statistically plausible paragraphs.\n",
+				"date_published": "2023-09-06T14:50:44+01:00",
+				"url": "https://devilgate.org/2023/09/06/speaking-of-chatgpt.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/09/06/dave-winer-i.html",
+				
+				"content_html": "<p>Dave Winer (I think he’s still <a href=\"https://micro.blog/dave\">@dave</a> on Micro.blog) <a href=\"http://scripting.com/2023/09/05.html#a131516\">talks about</a> using ChatGPT to</p>\n<blockquote>\n<p>make calls about a user&rsquo;s WordPress account. I want to know what sites the user is following in their reader app.</p>\n</blockquote>\n<p>ChatGPT notwithstanding, I’m mildly horrified that a) WordPress makes that info publicly available, and b) Dave wants to use it.</p>\n",
+				"content_text": "Dave Winer (I think he’s still [@dave](https://micro.blog/dave) on Micro.blog) [talks about](http://scripting.com/2023/09/05.html#a131516) using ChatGPT to\n\n> make calls about a user's WordPress account. I want to know what sites the user is following in their reader app.\n\nChatGPT notwithstanding, I’m mildly horrified that a) WordPress makes that info publicly available, and b) Dave wants to use it. \n",
+				"date_published": "2023-09-06T14:35:16+01:00",
+				"url": "https://devilgate.org/2023/09/06/dave-winer-i.html"
+			},
+			{
 				"id": "http://devilgate.micro.blog/2023/09/02/straight-to-hell.html",
 				"title": "Straight to Hell, 1987 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -70,7 +86,7 @@
 				"id": "http://devilgate.micro.blog/2023/08/24/im-not-sure.html",
 				
 				"content_html": "<p>I’m not sure who the New York Times folks are trolling with today’s Connections, but it’s a good one.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m not sure who the New York Times folks are trolling with today’s Connections, but it’s a good one. \n\n<img src=\"uploads/2023/image.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "I’m not sure who the New York Times folks are trolling with today’s Connections, but it’s a good one. \n\n<img src=\"https://cdn.uploads.micro.blog/89068/2023/image.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-24T10:30:37+01:00",
 				"url": "https://devilgate.org/2023/08/24/im-not-sure.html"
 			},
