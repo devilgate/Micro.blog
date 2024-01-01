@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2024/01/01/happy-new-year.html",
+				
+				"content_html": "<p>Happy New Year everyone!</p>\n",
+				"content_text": "Happy New Year everyone!\n",
+				"date_published": "2024-01-01T01:06:00+00:00",
+				"url": "https://devilgate.org/2024/01/01/happy-new-year.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/12/31/i-read-books.html",
+				
+				"content_html": "<p>I read 27 books in 2023; just over one a fortnight, which seems faster than it felt at the time. And I posted 111 times, with the following monthly breakdown:</p>\n<table>\n<thead>\n<tr>\n<th>Month</th>\n<th>Posts</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Jan</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Feb</td>\n<td>11</td>\n</tr>\n<tr>\n<td>Mar</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Apr</td>\n<td>10</td>\n</tr>\n<tr>\n<td>May</td>\n<td>6</td>\n</tr>\n<tr>\n<td>Jun</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Jul</td>\n<td>7</td>\n</tr>\n<tr>\n<td>Aug</td>\n<td>13</td>\n</tr>\n<tr>\n<td>Sep</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Oct</td>\n<td>9</td>\n</tr>\n<tr>\n<td>Nov</td>\n<td>9</td>\n</tr>\n<tr>\n<td>Dec</td>\n<td>12</td>\n</tr>\n</tbody>\n</table>\n<p>With my yearly theme of &lsquo;Getting Out and Connection&rsquo;, I&rsquo;ll try to put a few more posts out into the world in 2024.</p>\n",
+				"content_text": "I read 27 books in 2023; just over one a fortnight, which seems faster than it felt at the time. And I posted 111 times, with the following monthly breakdown:\n\nMonth | Posts\n----- | -----\nJan   | 16\nFeb   | 11\nMar   |  5\nApr   | 10\nMay   |  6\nJun   |  1\nJul   |  7\nAug   | 13\nSep   | 12\nOct   |  9\nNov   |  9\nDec   | 12\n\nWith my yearly theme of 'Getting Out and Connection', I'll try to put a few more posts out into the world in 2024.\n",
+				"date_published": "2023-12-31T19:36:13+00:00",
+				"url": "https://devilgate.org/2023/12/31/i-read-books.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/12/31/edinburgh-by-alexander.html",
+				"title": "Edinburgh by Alexander Chee (Books 2023, 27) 📚",
+				"content_html": "<p>Back in 2021, when I <a href=\"https://devilgate.org/2021/03/30/how-to-write.html\">read Chee&rsquo;s <!-- raw HTML omitted -->How to Write an Autobiographical Novel<!-- raw HTML omitted --></a>, I expressed an interest in this book, <!-- raw HTML omitted -->Edinburgh<!-- raw HTML omitted -->, largely because of its title. As I said then, &lsquo;the Edinburgh connection in the novel didn’t survive the writing and editing process, but he kept the title anyway.&rsquo; There is, in fact, a tangential character in this who has a loose connection to the city, but it&rsquo;s not relevant.</p>\n<p>What we have is a <em>bildungsroman</em>, the story of a boy becoming a man, knowing he&rsquo;s gay from an early age, and going through various experiences both because of that fact and having nothing to do with it.</p>\n<p>But about halfway through, the first-person narrative switches to a different character&rsquo;s first-person narrative, which caused me some confusion. The sections are headed with the name of the narrator, but since there is only this one change, then a change back for the last quarter, it wasn&rsquo;t immediately obvious what was going on.</p>\n<p>That was OK though. What I didn&rsquo;t enjoy so much was a kind of allusiveness that really became vagueness, which at times made it slightly hard to see what he was getting at. Especially in the last quarter.</p>\n<p>And that last quarter is the most difficult and problematic part of the whole. See, early on, the first narrator is abused, along with several classmates, by a teacher. This doesn&rsquo;t seem to have much effect on the narrator, though it does on some of the other victims.</p>\n<p>But in the end the main narrator becomes an abuser himself; of the other narrator, who is linked to the whole story in a way that is, frankly, too coincidental. And it all ends in a kind of unresolved ambiguity which I found left a bad taste.</p>\n<p>All in all, I preferred his nonfiction.</p>\n",
+				"content_text": "Back in 2021, when I [read Chee's <cite>How to Write an Autobiographical Novel</cite>](https://devilgate.org/2021/03/30/how-to-write.html), I expressed an interest in this book, <cite>Edinburgh</cite>, largely because of its title. As I said then, 'the Edinburgh connection in the novel didn’t survive the writing and editing process, but he kept the title anyway.' There is, in fact, a tangential character in this who has a loose connection to the city, but it's not relevant.\n\nWhat we have is a _bildungsroman_, the story of a boy becoming a man, knowing he's gay from an early age, and going through various experiences both because of that fact and having nothing to do with it.\n\nBut about halfway through, the first-person narrative switches to a different character's first-person narrative, which caused me some confusion. The sections are headed with the name of the narrator, but since there is only this one change, then a change back for the last quarter, it wasn't immediately obvious what was going on.\n\nThat was OK though. What I didn't enjoy so much was a kind of allusiveness that really became vagueness, which at times made it slightly hard to see what he was getting at. Especially in the last quarter.\n\nAnd that last quarter is the most difficult and problematic part of the whole. See, early on, the first narrator is abused, along with several classmates, by a teacher. This doesn't seem to have much effect on the narrator, though it does on some of the other victims.\n\nBut in the end the main narrator becomes an abuser himself; of the other narrator, who is linked to the whole story in a way that is, frankly, too coincidental. And it all ends in a kind of unresolved ambiguity which I found left a bad taste.\n\nAll in all, I preferred his nonfiction.\n\n",
+				"date_published": "2023-12-31T19:02:23+00:00",
+				"url": "https://devilgate.org/2023/12/31/edinburgh-by-alexander.html",
+				"tags": ["books","books 2023"]
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/12/31/hackney-christmas-lights.html",
+				
+				"content_html": "<p>Hackney Christmas lights</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hackney Christmas lights  \n\n<img src=\"https://cdn.uploads.micro.blog/89068/2023/65f5fb26c1234207be05ada16bfee321.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-12-31T11:47:25+00:00",
+				"url": "https://devilgate.org/2023/12/31/hackney-christmas-lights.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/12/30/saltburn-contains-spoilers.html",
+				"title": "Saltburn, 2023 - ★★½ (contains spoilers)",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/3/5/7/7/4/835774-saltburn-0-600-0-900-crop.jpg?v=b58cbd3b08\"/></p> <p><em>This review may contain spoilers.</em></p> <p>It's unusual to go in to see a film with essentially no idea of what it's about. Unusual, but sometimes quite a good way to approach something. I think I had read something to the effect that someone was invited to someone's country home. But as far as that, I knew nothing about this, going into the cinema today.</p><p>Except, maybe, that there was some major surprise twist or reversal.</p><p>There are, in fact, no surprises in this.</p><p>Or let's say, I found nothing particularly surprising in it.</p><p>I enjoyed it, and had a good conversation about it afterwards. But it would have been better — the conversation afterwards in particular — if the the first twenty minutes and the last five were shaved off.</p><p>The first twenty minutes because, we know: Oxford is shit if you have no friends and no money; and it's better if you have both. We don't need it explained in elaborate detail.</p><p>Or maybe that's not so obvious. I have some insider knowledge there.</p><p>But the last five or so minutes. I mean, really? Do you have to explain everything? Spell everything out in minute detail? Confirm that every possible thing that we thought might have happened — but that was, until now, pleasingly ambiguous — had actually happened?</p><p>I feel like the ending was focus-grouped to death; a few people didn't understand, so they dropped in some tiny flashbacks. Yes, he <em>was</em> that manipulative. I had suspected that from about forty minutes in, and my suspicions only increased. But I'd rather have had them left as suspicions.</p><p>All that said, I enjoyed this a lot. I just feel I could have enjoyed it a lot more.</p>\n",
+				"date_published": "2023-12-30T22:04:12+00:00",
+				"url": "https://devilgate.org/2023/12/30/saltburn-contains-spoilers.html",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://devilgate.micro.blog/2023/12/27/murder-on-the.html",
 				"title": "Murder on the Orient Express by Agatha Christie (Books 2023, 26) 📚",
 				"content_html": "<p>The first Christmas-present book, finished on boxing day.  Short, and a page-turner.</p>\n<p>I&rsquo;ve never read an Agatha Christie before, perhaps surprisingly. I&rsquo;m not even sure I&rsquo;ve seen any significant adaptation, except I once caught the end of one. Of this novel, unfortunately. So I sort of knew what the conclusion was, which meant I was seeing how the clues pointed in that direction.</p>\n<p>No matter, it&rsquo;s still a great read, and makes me want to read more.</p>\n",
@@ -14,6 +56,22 @@
 				"date_published": "2023-12-27T12:39:58+00:00",
 				"url": "https://devilgate.org/2023/12/27/murder-on-the.html",
 				"tags": ["books","books 2023"]
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/12/27/nine-to-five.html",
+				"title": "Nine to Five, 1980 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/6/1/1/39611-nine-to-five-0-600-0-900-crop.jpg?v=585e6eeb9e\"/></p> <p>I don't know why I didn't see this back in the day. It's a mad romp, and a deeply feminist one. Full of surprising stylistic switches, dream sequences…</p><p>Highly recommended.</p>\n",
+				"date_published": "2023-12-27T12:32:22+00:00",
+				"url": "https://devilgate.org/2023/12/27/nine-to-five.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2023/12/27/the-holiday.html",
+				"title": "The Holiday, 2006 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/9/5/3/50953-the-holiday-0-600-0-900-crop.jpg?v=6fb4cb65e6\"/></p> <p>I've watched this before, but it looks like I forgot to log it on Letterboxd. Fun Christmas romcom. Does exactly what you expect it to.</p>\n",
+				"date_published": "2023-12-27T12:28:26+00:00",
+				"url": "https://devilgate.org/2023/12/27/the-holiday.html"
 			},
 			{
 				"id": "http://devilgate.micro.blog/2023/12/15/what-the-hell.html",
@@ -1238,7 +1296,7 @@
 				"content_text": "I surprised myself, really. I, an avowed republican and atheist, watched the Queen's funeral.\n\nIt was a historic event, there's no doubt about that. If only because we need reminding once in a while that we live in a militarist theocracy.\n\nSure, the Prime Minister — elected, but just barely having any democratic legitimacy — was involved, reading one of the weird stories from the strange Christian book, <cite>The Bible</cite>. But look at the start of the ceremony. The military led the march to the church, surrounding the coffin throughout. Just inside the doorway they handed over to the religionists, who led them down the aisle.\n\nAll the living Prime Ministers were there, and some other politicians too, I expect. But it was not a day for them, for the elected; nor for their electors, for 'commoners', except to bow their heads and throw flowers.\n\nI kept an eye on Twitter throughout, but it wasn't nearly as snarky as I imagined. A few comments about dropped papers and spiders, but mostly just revelling in it.\n",
 				"date_published": "2022-09-19T21:14:20+00:00",
 				"url": "https://devilgate.org/2022/09/19/god-save-your.html",
-				"tags": ["monarchy","tv","republicanism","atheism","religion"]
+				"tags": ["monarchy","tv","republicanism","religion"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2022/09/19/the-silkworm-by.html",
@@ -2634,7 +2692,7 @@
 				"content_text": "\n\nDespite the title, this is not a writing 'how-to' book, except maybe by example. Nor is it a novel itself; it is a collection of essays. The subjects they cover do include writing and writing courses, most notably the Iowa Writers' Workshop. That was one of the first, if not _the_ first, postgraduate-level courses in creative writing, and Chee studied on it.\n\nBut the book covers a lot else, too. As Chee is a mixed-race gay man, you won't be surprised to hear that those details feature in a number of the essays. As does living in New York and trying to make it as a writer. And growing roses, and the origin of Catholic rosary beads.\n\nI was drawn to this because one of the essays was assigned reading on [the MA](/categories/cwma) early this term, and he was also cited at various other points on at least two modules.\n\nHis debut novel is called <cite>Edinburgh</cite>, which immediately interests me. Though you learn from a couple of the essays that he hoped, when younger, to go to Edinburgh to [study parapsychology](https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/research-programmes/research-interests/parapsychology), but didn't; and that the Edinburgh connection in the novel didn't survive the writing and editing process, but he kept the title anyway.\n\nI don't know what his fiction is like yet, but he's a fine essayist.\n",
 				"date_published": "2021-03-30T14:33:44+00:00",
 				"url": "https://devilgate.org/2021/03/30/how-to-write.html",
-				"tags": ["books","books 2021","writing","CWMA","Life Writing","essays","autobiography"]
+				"tags": ["books","books 2021","writing","CWMA","Life Writing","essays"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2021/03/29/lunch-and-writing.html",
@@ -3186,7 +3244,7 @@
 				"content_text": "\n\nIf you're reading this, it may not apply to you, but I want to let you know that there are a number of ways to make sure that you see all of my posts. Should you wish to.\n\n## Now With Added Email \n\nIf you follow that link on the left labelled '[Subscribe](/blog/feed/),' you'll see all the ways.\n\n[RSS](/feed/index.rss), [Twitter](https://twitter.com/devilgate), [Micro.blog](https://micro.blog/devilgate), WordPress.com; no surprises there.\n\nBut if you prefer to use the oldest protocol of all (at least for these purposes), there's a form on [that page](/blog/feed/) that will let you sign up to get the posts by email.\n\nSo now you never have to miss a post again.\n",
 				"date_published": "2020-11-29T17:50:10+00:00",
 				"url": "https://devilgate.org/2020/11/29/how-to-make.html",
-				"tags": ["blogging","email","meta","rss","automation","posts","atom","json feed"]
+				"tags": ["blogging","email","meta","rss","posts","json feed"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2020/11/21/fear-and-loathing.html",
@@ -3828,7 +3886,7 @@
 				"content_text": "\n\nFriday Baldwin is genetically engineered 'artificial person.' Indistinguishable from a conventional human, she nonetheless is psychologically constrained by the way her society discriminates against her type.\n\nThat's pretty much her only constraint, though. Her engineered nature also gives her enhanced strength, reflexes, sight, hearing, and smell, as well as genius-level intelligence. She starts out as a courier and soon becomes a fugitive.\n\nThis stands up pretty well, all these years since I first read it. The fragmented, Balkanised future North America is interesting. Easy travel everywhere by 'tubes,' which are presumably underground trains, and suborbital rockets. Corruption so pervasive that the characters don't even notice it. You hand over your passport with 'the appropriate squeeze' folded inside it, and are waved through.\n\n\n",
 				"date_published": "2020-06-16T23:21:23+00:00",
 				"url": "https://devilgate.org/2020/06/16/friday-by-robert.html",
-				"tags": ["books","books 2020","robert a heinlein","artificial person","genetic engineering","friday"]
+				"tags": ["books","books 2020","robert a heinlein","genetic engineering","friday"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2020/06/16/you-are-your.html",
@@ -3989,7 +4047,7 @@
 				"content_text": "\n\nSad to [read in <cite>The Guardian</cite>](https://www.theguardian.com/artanddesign/2020/may/19/astrid-kerchherr-photographer-the-beatles?utm_term=RWRpdG9yaWFsX1NsZWV2ZU5vdGVzLTIwMDUyMg%3D%3D&amp;utm_source=esp&amp;utm_medium=Email&amp;CMP=sleevenotes_email&amp;utm_campaign=SleeveNotes) that Astrid Kirchherr[^sp] has died. She was 81. That's not a bad age, and it's not like I had followed her career. I just knew her as a photographer who had worked with The Beatles, and been Stuart Sutcliffe's partner till he died.\n\nBut from my early reading of Beatles books -- like [<cite>The Beatles: An Illustrated Record</cite>](https://en.wikipedia.org/wiki/The_Beatles:_An_Illustrated_Record) -- onward, I was aware of her as part of their story, their mythology. \n\nMore than that, though, as the article above, as well as [her obituary](https://www.theguardian.com/artanddesign/2020/may/17/astrid-kirchherr-obituary), will tell you: she was the one who gave them their early look. She made them the \"lovable moptops.\" They'd have been successful without the haircuts, of course, but there's no denying the importance of that early image.\n\nI think I'm saddened more because of what her death represents. I was born the year The Beatles took America. They had long split up by the time I developed any musical awareness.[^swearingatgran] But they were the first band I really got interested in, when my sister gave me a tape. They were my favourites until punk came along, and I love them still.\n\nBut that whole generation is ageing -- well, who isn't, of course -- and will soon be gone. And mine not too far behind it. So what it all comes down to is that Astrid's death reminds me of my own mortality, and there's no excuse for that!\n\n[Brilliant photos](https://www.npg.org.uk/collections/search/person/mp84332/astrid-kirchherr), though.\t\n\n[^sp]: I note that I always thought her name was Kirchnerr. But there's no \"n\" to be found.\n\n[^swearingatgran]: Though I did shock my grandma when I was very small, by singing \"Obla-di, Obla-da.\" She thought I was \"swearing\". And it might have been The Marmalade's version that I'd heard at that time.\n\n",
 				"date_published": "2020-05-22T16:30:48+00:00",
 				"url": "https://devilgate.org/2020/05/22/the-beatles-generation.html",
-				"tags": ["music","the beatles","photography","astrid kirchherr"]
+				"tags": ["music","the beatles","photography"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2020/05/19/tip-how-to.html",
@@ -4617,11 +4675,11 @@
 			{
 				"id": "http://devilgate.micro.blog/2020/01/09/the-housekeeper-and.html",
 				"title": "The Housekeeper and the Professor by Yōko Ogawa (Books 2020, 1)",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<html><body><p>This is a sweet little story, exactly described by its title. The professor in question is an elderly mathematician who has had a brain injury that has left him with only 80 minutes of short-term memory. The housekeeper, therefore, has to introduce herself to him every morning when she arrives at his house.</p>\n<p>She has a son who comes along sometimes, and there are maths puzzles and baseball.</p>\n<p>It doesn’t sound like much from that description, and it’s very short. But it’s thoroughly compelling and enjoyable.</p>\n</body></html>\n",
+				"content_html": "<p>This is a sweet little story, exactly described by its title. The professor in question is an elderly mathematician who has had a brain injury that has left him with only 80 minutes of short-term memory. The housekeeper, therefore, has to introduce herself to him every morning when she arrives at his house.</p>\n<p>She has a son who comes along sometimes, and there are maths puzzles and baseball.</p>\n<p>It doesn’t sound like much from that description, and it’s very short. But it’s thoroughly compelling and enjoyable.</p>\n",
+				"content_text": "This is a sweet little story, exactly described by its title. The professor in question is an elderly mathematician who has had a brain injury that has left him with only 80 minutes of short-term memory. The housekeeper, therefore, has to introduce herself to him every morning when she arrives at his house.\n\nShe has a son who comes along sometimes, and there are maths puzzles and baseball.\n\nIt doesn’t sound like much from that description, and it’s very short. But it’s thoroughly compelling and enjoyable.\n",
 				"date_published": "2020-01-09T20:16:57+00:00",
 				"url": "https://devilgate.org/2020/01/09/the-housekeeper-and.html",
-				"tags": ["books","japan","maths","baseball","books 2020"]
+				"tags": ["books","books 2020"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2020/01/07/enjoying-moffat-and.html",
@@ -4693,7 +4751,7 @@
 				"content_text": "\n<html><body><p>Christmas is the time of year when the devil doesn’t have all the best tunes. The other side gets some of them too.</p>\n<p>I love Christmas songs. Not all of them. of course, but many. And that includes some of the Christmas carols. A full choir singing ‘Hark the Herald Angels Sing,’ or ‘Oh Come All Ye Faithful’? I’m there.</p>\n<p>The <em>best</em> Christmas songs, though, <em>do</em> belong to the — let’s say — secular side of things. I have a hierarchy of my personal favourites. Things move around a bit, and very occasionally new ones arrive; and you won’t be surprised to learn that ‘Fairytale of New York’ remains unassailable in the top spot.</p>\n<p>One of my other favourites is Greg Lake’s 1975 hit, ‘I Believe in Father Christmas.’ Now, if you haven’t listened to the words too closely — written, I’m surprised to discover, by Peter Sinfield, of whom I had barely heard before researching this — you might think it’s a simple celebration of Christmas, set to a jaunty tune, much like Slade’s ‘Merry Xmas Everybody,’ from a couple of years earlier (and every year since). It’s not, though. It’s much darker and more interesting than that:</p>\n<blockquote><p>\n  They sold me a dream of Christmas<br>\n  They sold me a Silent Night<br>\n  They told me a fairy story<br>\n  Till I believed in the Israelite\n</p></blockquote>\n<p>And that closing couplet:</p>\n<blockquote><p>\n  Hallelujah, Noel, be it Heaven or hell<br>\n  The Christmas we get we deserve\n</p></blockquote>\n<p>Lake and Sinfield have argued that it’s not anti-religious or atheistic. Well, you can have your interpretation, guys. I know what I think.</p>\n<p>I mainly wrote this because I’ve wanted to use the line I’ve stolen as a title for years. And I’ll leave you with the wishes the song provides:</p>\n<blockquote><p>\n  I wish you a hopeful Christmas<br>\n  I wish you a brave New Year\n</p></blockquote>\n<p>I think we’re all going to need some hope and some bravery in 2020.</p>\n</body></html>\n",
 				"date_published": "2019-12-27T15:15:28+00:00",
 				"url": "https://devilgate.org/2019/12/27/eyes-full-of.html",
-				"tags": ["music","atheism","songs","christmas","xmas","carols"]
+				"tags": ["music","songs","christmas","xmas","carols"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2019/12/27/the-league-of.html",
@@ -5700,7 +5758,7 @@
 				"content_text": "\n<html><body><p>“’80s Indie Essentials,” from Apple Music. Really good, and has several things I didn’t know, as well as much I did. Perhaps too much Smiths, especially with Morrissey’s fall from grace, but they did make some good records.</p>\n<p><iframe allow=\"autoplay *; encrypted-media *;\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.Apple.com/gb/playlist/80s-indie-essentials/pl.5343e740e56f484298a453584aeb8729\"></iframe></p>\n</body></html>\n",
 				"date_published": "2019-03-01T11:32:34+00:00",
 				"url": "https://devilgate.org/2019/03/01/s-indie-essentials.html",
-				"tags": ["music","apple music","playlist"]
+				"tags": ["music","playlist"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2019/02/25/englands-dreaming-sex.html",
@@ -6896,7 +6954,7 @@
 				"content_text": "\n<html><body><p>This is a great story about how some people have to fix things in the aftermath of something they did that may change the world fundamentally, if not destroy it. With that description it sounds very similar to Ellis’s earlier webcomic (with Paul Duffield), <a href=\"http://www.freakangels.com\">Freak Angels</a>.</p>\n<p>Which is a fair enough assessment, though the triggering event in this case is a combination of AI, the internet, and old magic; as opposed to the psychic powers in the older work. Ellis has deeply embedded the “start late” advice often given to aspiring authors. Both of the works under discussion, and some of his others, start long after the events that set their plots in motion.</p>\n<p>It can be a very effective device. We get to know characters who already know each other, and the past events are revealed gradually, through conversation and flashbacks. And the fact that the protagonists don’t at first fully understand what they did means that we learn along with them.</p>\n<p>This is great, but the only frustrating thing is that these three volumes — comprising fifteen issues of the comic — are to date all that there is. I don’t know if they plan to continue it, but the last issue came out in November, and the story is far from over. Googling has not so far revealed the answer to this.</p>\n<p>Recommended, though.</p>\n</body></html>\n",
 				"date_published": "2018-04-18T21:20:14+00:00",
 				"url": "https://devilgate.org/2018/04/18/injection-vols-by.html",
-				"tags": ["comics","magic","books 2018","artificial intelligence","internet"]
+				"tags": ["comics","magic","books 2018","internet"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2018/04/18/bizarre-romance-by.html",
@@ -6950,7 +7008,7 @@
 				"content_text": "\nI went to <a href=\"https://www.audreyniffenegger.com/events/2018/4/10/bizarre-romance-audrey-niffenegger-and-eddie-campbell-at-the-british-library-jcj4z-cknl9\">a thing at the British Library</a>. It was an author event with <a href=\"https://www.audreyniffenegger.com\">Audrey Niffenegger</a> and <a href=\"https://en.wikipedia.org/wiki/Eddie_Campbell\">Eddie Campbell.</a> They’ve made a book together. And, it turns out, they’re married. To each other, that is.\n\nI had no idea that this was the case. Who’s in charge of telling me about things? Cos they’re falling down on the job.\n\nNot that there’s any reason why I should know, of course. They’re both creators whose work I’ve enjoyed in the past, but that’s all.\n\nAnyway, this was the standard sort of author talk/interview thing, led by a guy who didn’t introduce himself, but according to the event page was “international comics expert, and man at the crossroads, <a href=\"https://en.wikipedia.org/wiki/Paul_Gravett\">Paul Gravett</a>“.[^escape]\n\nIt was all very good. I bought the book, <cite>Bizarre Romance</cite>. Looks like it’ll be fun. I didn’t stay for the signing, because I’m not that bothered about autographs. And I couldn’t think of any questions at the Q&amp;A, which is also normal.\n\nInterestingly (and maybe this is already common knowledge too) Niffenegger is writing a sequel to <cite>The Time Traveller’s Wife</cite>[^correct] to be called <cite>The Other Husband</cite>.\n\n[^escape]: Oh, OK, he published <a href=\"https://en.wikipedia.org/wiki/Escape_(magazine)\"><cite>Escape</cite> magazine.</a> I used to get that sometimes.\n\n[^correct]: I insist on spelling the title correctly.\n",
 				"date_published": "2018-04-10T22:20:07+00:00",
 				"url": "https://devilgate.org/2018/04/10/the-audrey-and.html",
-				"tags": ["books","comics","graphic novels","the time traveller's wife","audrey niffenegger","eddie campbell","sequels"]
+				"tags": ["books","comics","graphic novels","the time traveller's wife","eddie campbell","sequels"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2018/04/08/tab-convert.html",
@@ -8469,7 +8527,7 @@
 				"content_text": "\n<html><body><p>The front page of today’s <cite>Guardian</cite> has a picture of what it looks like when you let the terrorists win:</p>\n<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"http://devilgate.org/blog/wp-content/uploads/2017/05/96237412_27may1national01-1-1.jpg\" alt=\"96237412 27may1national01  1\" title=\"_96237412_27may1national01 (1).jpg\" border=\"0\" width=\"330\" height=\"257\"></p>\n<p>Armed police used to be almost unknown on British streets. Now they’re becoming alarmingly commonplace. I saw two outside Liverpool Street Station yesterday; armed, like the two above, not just with pistols, but with big, two handed things that most people would call “machine guns.” This increasing militarisation of the police was taken a step further this week when the Maybot ordered actual troops onto the streets. And I read that armoured vehicles were going to be deployed at the FA Cup final.</p>\n<p>Armed police on a beach: why? Was there a reasonable expectation of some sort of attack on <em>Scarborough beach</em>? And if there was: would weapons have helped? Armed police would not have stopped the tragedy in Manchester.</p>\n<p>The aim of the terrorist is to cause terror. All this escalation does is make ordinary people feel more worried, more scared. Worry and low-grade fear aren’t terror, but they’re on the same axis. Overreacting like this is playing into the terrorists’ hands. As well, of course, as being a cynical political move in the runup to an election whose calling was, itself, a cynical political move.</p>\n<p>Meanwhile Jeremy Corbyn gave speech <a href=\"https://www.theguardian.com/politics/2017/may/25/jeremy-corbyn-links-foreign-policy-to-growing-terror-threat\">making reasonable, uncontentious points about</a> the links between foreign policy and terrorism. Predictably the right-wing press and Tory politicians went ape.</p>\n</body></html>\n",
 				"date_published": "2017-05-27T19:11:18+00:00",
 				"url": "https://devilgate.org/2017/05/27/losing-the-war.html",
-				"tags": ["photos","police","theresa may","terrorism","election 2017","armed police"]
+				"tags": ["photos","police","theresa may","terrorism","election 2017"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/05/27/ive-never-installed.html",
@@ -8604,7 +8662,7 @@
 				"content_text": "\n<html><body><p>New theme on my site. Independent Publisher wasn’t behaving quite how I wanted, especially with microblog posts. So I’m trying Minnow, with thanks to [@colinwalker](https://micro.blog/colinwalker) for the suggestion.</p>\n</body></html>\n",
 				"date_published": "2017-05-10T14:28:09+00:00",
 				"url": "https://devilgate.org/2017/05/10/new-theme-on.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/05/09/further-to-my.html",
@@ -8631,7 +8689,7 @@
 				"content_text": "\n<html><body><p>Raspberry jam for breakfast leads to both Prince’s and the Hindu Love Gods’ versions of “Raspberry Beret,” and I marvel again at how cool the Sonos &amp; Apple Music combination is.</p>\n</body></html>\n",
 				"date_published": "2017-05-09T07:45:05+00:00",
 				"url": "https://devilgate.org/2017/05/09/raspberry-jam-for.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/05/07/congratulations-to-france.html",
@@ -8640,7 +8698,7 @@
 				"content_text": "\n<html><body><p>Congratulations to France. Nice to get some good electoral news for a change.</p>\n</body></html>\n",
 				"date_published": "2017-05-07T21:35:39+00:00",
 				"url": "https://devilgate.org/2017/05/07/congratulations-to-france.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/05/06/the-syllogism-of.html",
@@ -8658,7 +8716,7 @@
 				"content_text": "\n<html><body><p>Of course @bbcanyquestions has the traitor Farage on again. Of course. (Someone who has spent his adult life working against the national interest can rightly be described as a traitor.)</p>\n</body></html>\n",
 				"date_published": "2017-05-06T13:21:18+00:00",
 				"url": "https://devilgate.org/2017/05/06/of-course-bbcanyquestions.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/05/06/the-clips-app.html",
@@ -8667,7 +8725,7 @@
 				"content_text": "\n<html><body><p>The Clips app actually records full-frame video, even through it only shows squares. So I now have some portrait videos. Ewww.</p>\n</body></html>\n",
 				"date_published": "2017-05-06T09:37:15+00:00",
 				"url": "https://devilgate.org/2017/05/06/the-clips-app.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/05/05/if-squarespace-casper.html",
@@ -8676,7 +8734,7 @@
 				"content_text": "\n<html><body><p>If Squarespace, Casper, &amp; Linode stopped advertising on podcasts, the whole podcast industry would collapse. Parts I listen to, at least.</p>\n</body></html>\n",
 				"date_published": "2017-05-05T09:16:53+00:00",
 				"url": "https://devilgate.org/2017/05/05/if-squarespace-casper.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/05/05/the-luxury-of.html",
@@ -8694,7 +8752,7 @@
 				"content_text": "\n<html><body><p>At the dentist, she &amp; the nurse were talking about marathons. I said maybe they shouldn’t cos of <cite>Marathon Man</cite>. They had never heard of it.</p>\n</body></html>\n",
 				"date_published": "2017-04-28T10:38:23+00:00",
 				"url": "https://devilgate.org/2017/04/28/at-the-dentist.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/04/28/perhaps-the-most.html",
@@ -8703,7 +8761,7 @@
 				"content_text": "\n<html><body><p>Perhaps the most annoying feature of Eclipse is that a new workspace always defaults to tabs instead of spaces. Who uses tabs?</p>\n</body></html>\n",
 				"date_published": "2017-04-28T01:06:57+00:00",
 				"url": "https://devilgate.org/2017/04/28/perhaps-the-most.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/04/26/this-is-posted.html",
@@ -8712,7 +8770,7 @@
 				"content_text": "\n<html><body><p>This is posted using the new <a href=\"https://micro.blog\">Micro.blog</a> app and service from Manton Reece. The app is in beta, I should note.</p>\n</body></html>\n",
 				"date_published": "2017-04-26T14:41:56+00:00",
 				"url": "https://devilgate.org/2017/04/26/this-is-posted.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/04/24/smile-youre-on.html",
@@ -8730,7 +8788,7 @@
 				"content_text": "\n<html><body><p>Back in Balloch in 1981, 82 or so we use to play a Pac-Man clone called Spout Rolla. But there are no references to it on the internet, as far as I can tell. So this is my story about it.</p>\n<p>Once upon a time a gang of kids — thinking they were adults, but not really — used to go to the pub, and play a game.</p>\n<p>The pub was actually the bar of a place called <a href=\"http://www.duckbay.co.uk\">Duck Bay Marina</a>. I see from that link that they now call it “Duck Bay Hotel.” Either way, it was a couple of miles outside Balloch, on the west bank of Loch Lomond.</p>\n<p>Why did we go there, when there were pubs in the town? Two reasons, I suspect. One, some of us had driving licences and the chance to use our parents’ cars, so why not? (I wasn’t yet one of them at that point.) And two, it had video games in the foyer.</p>\n<p>That had a dual advantage. We could play the games, and those of us who, let’s say, weren’t quite strictly within the parameters of the legal drinking age, could stay out of sight of the staff.</p>\n<p>So: usually two machines, as I recall, plus maybe a fruit machine or two. I first played Frogger there. It was the era when arcade games had started to extend beyond shooting things in space to other tests of skill, like crossing rivers on logs.</p>\n<p>Spout Rolla was in a similar vein. But it was a clear derivative of — let’s be honest, rip-off of — Pac-Man. I’m not sure I’d actually played Pac-Man at that point, but I must have been aware of it.</p>\n<p>The idea was you guided a paint brush moving around a watery maze, painting the maze behind it. Fish would come out and try to catch your brush. If you painted all the maze you got a new screen (which I think might just have been the same maze in different colours, maybe speeded up a bit).</p>\n<p>Instead of the power-pills of Pac-Man, there was one part of the maze that had a paint roller in it. If you approached the roller from the right direction, it went with you and you accelerated just for that section. Then you could turn back and roll over the fish that were following you, for extra points. And that was it.</p>\n<p>Simpler times, simpler pleasures, I guess. It never made much sense, but we liked it.</p>\n<p>Thing is, everything’s on the net today, right? Well, apparently not. When I googled it today, I found two surprising thing. First, that there are no references to “Spout Rolla game” to be found, with or without quotes round the first two words. Second, that <a href=\"https://mapcarta.com/17620080\">Spout Rolla is a place in Scotland</a>, namely a waterfall in Perth and Kinross.<sup id=\"fnref-3345-waterfall\"><a href=\"#fn-3345-waterfall\" class=\"jetpack-footnote\">1</a></sup></p>\n<p>Could this possibly be that most unlikely of things (at least before Rockstar Games): a Scottish game?</p>\n<p>My son suggested that there would be people my age trying to remember what the game was called. So I tried googling for a description of it: <a href=\"https://duckduckgo.com/?q=pac-man+clone+fish+paint+roller&amp;t=ipad&amp;ia=videos\">pac-man clone fish paint roller</a>. That search has selected videos, which I didn’t. But I did find a possible explanation.</p>\n<p>It seems there was a game called <a href=\"https://archive.org/details/arcade_crush\">Crush Roller, also known as Make Trax</a>, and the one I remember could be a rebadged version of that. Plus you can play it at that link. As with many games of the time, it’s not as satisfying playing them with arrow keys as it was with a joystick.</p>\n<p>So, no, it’s not Scottish, but it could possibly have been rebadged for the Scottish market. Or maybe just that one in Duck Bay, who knows.</p>\n<p>The only thing is that, seeing that version, I had forgotten about there being <em>two</em> rollers. I was fairly sure there was only one, but playing it felt familiar, so I guess Crush Roller/Make Trax is it.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-3345-waterfall\">\nInitially the only <a href=\"https://sv.m.wikipedia.org/wiki/Spout_Rolla\">Wikipedia page for it</a> I could find was in Swedish. But latterly (2019-12-08), I find it’s better known as “<a href=\"https://en.wikipedia.org/wiki/Sput_Rolla\">Sput Rolla</a>.” According to the “<a href=\"https://en.wikipedia.org/wiki/List_of_waterfalls_of_Scotland\">List of waterfalls of Scotland</a>” article, “‘Spout’ is another common word found throughout England and Scotland for particular types of fall though it is usually replaced by ‘sput’ in the formerly Gaelic-speaking parts of the latter.” <a href=\"#fnref-3345-waterfall\">↩</a>\n</li>\n</ol>\n</div>\n</body></html>\n",
 				"date_published": "2017-04-22T23:46:35+00:00",
 				"url": "https://devilgate.org/2017/04/22/spout-rolla.html",
-				"tags": ["Life Writing","tech","games","video games","arcade games","pubs","seventeen","duck bay marina"]
+				"tags": ["Life Writing","tech","games","video games","pubs","seventeen","duck bay marina"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/04/18/scattered-thoughts-on.html",
@@ -9018,7 +9076,7 @@
 				"content_text": "\n<html><body><p>We went to Dulwich Picture Gallery today, to see both the permanent collection and the Vanessa Bell exhibition. All very fine. But I was struck by one of Bell’s paintings in particular.</p>\n<p>It’s called “The Model,” which makes it hard to search for, being so generic. But it’s clear to me that the hair &amp; makeup people of the original <cite>Star Wars</cite> must have been familiar with it, since it is totally where they got Princess Leia’s headphone hairstyle.</p>\n<p>Bell lived until 1961, so her work is still in copyright, which I expect is why it’s hard to find a decent image online, but <a href=\"https://goo.gl/images/aGpwj0\">Google Image Search has this</a>.</p>\n<p>Take a look. Tell me I’m wrong.</p>\n</body></html>\n",
 				"date_published": "2017-03-17T20:00:25+00:00",
 				"url": "https://devilgate.org/2017/03/17/vanessa-bell-and.html",
-				"tags": ["sf","star wars","art","princess leia","dulwich picture gallery"]
+				"tags": ["sf","star wars","princess leia","dulwich picture gallery"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/03/16/the-return-of.html",
@@ -9072,7 +9130,7 @@
 				"content_text": "\nIn <a href=\"http://devilgate.org/blog/2017/02/07/international-clash-day/\">International Clash Day</a> I mentioned a life-changing song: “Wasted Life,” by Stiff Little Fingers. SLF’s anti-military song literally changed my life; or its potential direction, at least. I was probably moving in an anti-war kind of direction anyway, to be fair, but it was definitely a trigger point.\n\nPeople say — or used they to, at least — that a song couldn’t change your life. By comparison, I don’t think there was ever a similar tendency to say that a book couldn’t change a person’s life. I suspect that is down to their comparative sizes: it seems respectable for something the size of a novel to have a major impact on a human’s psyche, while a three-minute song? Not so much.\n\nAlthough if it were merely length, then people wouldn’t have complained if you said an album changed your life. I’m not sure that anyone ever said that,[^somebody] but I suspect that if they had, their statement would have been pooh-poohed just as much as the same claim for a song.\n\nAt this point I feel I ought to quote Springsteen, giving the opposite view:\n\n> We learned more from a three-minute record, baby,<br />\n> Than we ever learned in school\n\nhe sings in “No Surrender.” Hyperbole, certainly, but there is a core of truth to it: the truth of the <em>feeling</em> you can get from listening to a great song.\n\nWith “Wasted Life” the feeling for me was of sudden crystallisation, or realisation.  I had, for some years, been saying that I wanted to be  pilot, join the RAF. This was before the horrors of the Gulf War, or for that matter the Balkans. Though it was in the heart of the Cold War, and British soldiers were stationed in Northern Ireland during the troubles — though not so much RAF staff, I would think.\n\nBut I was blind to all that, brought up as I was on a diet of Second World War films, <cite>Commando</cite> comics, and Airfix models of warplanes. I had, in short, a thoroughly romanticised view of war. And I just wanted to fly.\n\nBut I didn’t want to kill. I  had always known that, I’m sure. But <em>two lines</em> of that one song made it real for me:\n\n> Stuff their fucking armies<br />\n> Killing isn’t  my idea of fun[^plural]\n\nAnd that was all it took. I remember that it was a while before I could tell my parents that I had changed my plans. Perhaps because they would have asked why, and I didn’t want to have to explain it. Maybe because I thought they’d be disappointed. I’m sure my Mum wasn’t. My Dad kind of was: “But you were going to be a Spanish-speaking pilot,” he said. He had always been slightly amused that my school taught half of us Spanish, instead of the then-much-more-conventional French.\n\nA life can hinge on such a small moment.\n\n[^somebody]: Somebody must have, of course.\n\n[^plural]: In an amusing followup to <a href=\"http://devilgate.org/blog/2017/03/01/under-the-television-skies/\">recent thoughts</a>, I originally wrote that as “army,” but find that <a href=\"http://www.metrolyrics.com/wasted-life-lyrics-stiff-little-fingers.html\">lyrics sites think this plural too</a>. Correctly, of course.\n",
 				"date_published": "2017-03-11T23:45:16+00:00",
 				"url": "https://devilgate.org/2017/03/11/saved-life.html",
-				"tags": ["music","memoir","Life Writing","autobiography","slf","stiff little fingers","personal history","life-changing","army"]
+				"tags": ["music","memoir","Life Writing","slf","stiff little fingers","personal history","life-changing"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/03/11/interruptingkids-video-and.html",
@@ -9180,7 +9238,7 @@
 				"content_text": "\n<html><body><p>This should be enough to disbar someone from public life for good: <a href=\"https://www.theguardian.com/politics/2015/feb/25/astrology-help-nhs-claim-conservative-mp-david-tredinnick?CMP=share_btn_tw\">Astrology could help take pressure off NHS doctors, claims Conservative MP</a> — The Guardian. Though I notice the article is two years old. It just came to my attention via <strike>Facebook</strike> one of Twitter’s occasional emails.</p>\n<blockquote><p>\n  David Tredinnick said astrology, along with complementary medicine, could take pressure off NHS doctors, but acknowledged that any attempt to spend taxpayers’ money on consulting the stars would cause “a huge row”.\n</p></blockquote>\n<p>Getting his defence in early, he goes on to say that his likely critics (he names Brian Cox specifically):</p>\n<blockquote><p>\n  “… are also ignorant, because they never study the subject and just say that it is all to do with what appears in the newspapers, which it is not, and they are deeply prejudiced, and racially prejudiced, which is troubling.”\n</p></blockquote>\n<p>Nice tactic: he knows he’s talking bullshit, so accuses people of racism. Last time I checked, astrology wasn’t a race.</p>\n<p>Nor was stupidity.</p>\n<p>And in the unlikely event that anyone reading this thinks I’m just being reflexively mean and as bad as the critics he fears, here’s a considered scientific opinion. The only possible known way the positions of the planets and stars at our birth could affect us is by gravity. And while gravity does travel all through the universe, it is very, very weak — the weakest of the fundamental forces. Just look at how hard it was to measure gravitational waves. We were only able to do that in the last year, and it took colliding black holes to make enough of a splash for us to measure.</p>\n<p>Is it possible that heavenly bodies affect us in some other, as yet unknown way? Yes. And here’s what science says about that: show us how, and we’ll study it. Demonstrate the mechanism by which this influence happens, and we’ll write down the equations that govern it and learn all about it. We’ll have to throw out all existing models of physics, but if you bring the evidence, that’s what we’ll do.</p>\n<p>That’s science.</p>\n</body></html>\n",
 				"date_published": "2017-02-28T07:21:25+00:00",
 				"url": "https://devilgate.org/2017/02/28/tory-mp-claims.html",
-				"tags": ["tories","Links","tory madness","nonsense","tory idiot","conservatives","astrology","lunacy"]
+				"tags": ["tories","Links","tory madness","nonsense","tory idiot","conservatives","lunacy"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/02/27/memorials.html",
@@ -9252,7 +9310,7 @@
 				"content_text": "\n<html><body><p>Sometimes you just want to write something. Maybe you have something specific to say, maybe not. Maybe you have nothing to say at all, but just want to get something out there.</p>\n<p>Maybe you’ve set yourself a target, and having missed a day (and being aware that you’ll doubtless miss others) you’ve decided you want to keep the average up. So that at the end of 2017 you’ll be able to look back at at least 365 posts in the year.</p>\n<p>Maybe at the start of the year, that was about as many posts as were on your blog in its whole history. So it’s a major challenge. But maybe you keep going, even with nothing to say.</p>\n</body></html>\n",
 				"date_published": "2017-02-20T23:55:39+00:00",
 				"url": "https://devilgate.org/2017/02/20/maybe.html",
-				"tags": ["blogging","stream of consciousness","aside","havering","nonsense"]
+				"tags": ["blogging","stream of consciousness","havering","nonsense"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/02/20/whoops.html",
@@ -9261,7 +9319,7 @@
 				"content_text": "\n<html><body><p>OK, I missed a day. Obviously it had to happen sooner or later. But yesterday I just totally forgot.</p>\n<p>Oh well. We pick up and keep going.</p>\n</body></html>\n",
 				"date_published": "2017-02-20T09:07:41+00:00",
 				"url": "https://devilgate.org/2017/02/20/whoops.html",
-				"tags": ["blogging","aside","missed entries"]
+				"tags": ["blogging","missed entries"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/02/18/brain-explain.html",
@@ -9746,7 +9804,7 @@
 				"content_text": "\n<html><body><p>I may not get to write a proper post today, as I haven’t yet and we’re about to go and see <cite>Stewart Lee: Content Provider</cite>, so I probably won’t manage to later.</p>\n<p>So this is by way of meeting my challenge.</p>\n</body></html>\n",
 				"date_published": "2017-01-06T18:24:38+00:00",
 				"url": "https://devilgate.org/2017/01/06/content-provider.html",
-				"tags": ["microblog","blogging","aside"]
+				"tags": ["microblog","blogging"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/01/05/things-that-should.html",
@@ -9755,7 +9813,7 @@
 				"content_text": "\n<html><body><p>It ought to be easy to install a software package on Linux. I mean, it usually is. All modern distros ship with package managers, right? So all you should have to do is type (Debian-based example):</p>\n<pre><code>sudo apt-get install PACKAGE-NAME\n</code></pre>\n<p>and away you go. Right?</p>\n<p>Well, usually. But today, not for me.</p>\n<p>I have a NAS box from Western Digital, which is really a little Linux server with a biggish disk drive. Some time ago I replaced the shipped distro with a newer one, but it was so long ago, and it’s been so quiet and reliable that I can’t remember what version, exactly.</p>\n<p>So first, there seems to be no way to interrogate it to see what distro it is. I mean, there <em>must</em> be, and <a href=\"https://www.cyberciti.biz/faq/find-linux-distribution-name-version-number/\">this page</a> lists several ways, but none of them work on this box. I mean, <code>uname</code> shows me the kernel version and all that, but not the distro.</p>\n<p>Anyway, all that doesn’t really matter. I was only doing it to install <a href=\"http://nodejs.org/\">Node</a>, and I was only wanting to install Node so that I could run <a href=\"https://github.com/stephen/airsonos\">AirSonos</a>. We got a <a href=\"http://www.sonos.com/en-us/shop/play1.html\">Sonos Play:1</a> for the kitchen recently, and it’s great, but the one weakness is that it doesn’t support playing from an arbitrary source one your phone, such as, say, your podcast app of choice (<a href=\"https://overcast.fm\">Overcast</a>, obvs).</p>\n<p>AirSonos is supposed to effectively turn the Sonos into an AirPlay speaker, so you can easily send audio to it from iOS devices. And you want it to be running on a server, so it’s available all the time.</p>\n<p>But it turns out that Node does not want to install on my NAS. Either by <code>apt-get</code>, as above, or by downloading the binary and unpacking it. (That installs it, obviously, but it won’t run.)</p>\n<p>I’m going to try running <a href=\"http://sonoair.mihosoft.eu\">SonoAir</a> on my MacBook. That’s a wrapper round AirSonos, and obviously it’ll only work (assuming it does at all) when my MacBook is awake. But life’s too short.</p>\n</body></html>\n",
 				"date_published": "2017-01-05T23:30:13+00:00",
 				"url": "https://devilgate.org/2017/01/05/things-that-should.html",
-				"tags": ["technology","tech","software","linux","apt-get","apt","sonos","node"]
+				"tags": ["technology","tech","software","linux","sonos","node"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2017/01/04/getting-rid-of.html",
@@ -10115,7 +10173,7 @@
 				"content_text": "\n<html><body><p>The hottest day of the year, and I end up having an interview. Glad to have it, but gladder to be home and into cooler clothes.</p>\n</body></html>\n",
 				"date_published": "2016-07-19T15:54:22+00:00",
 				"url": "https://devilgate.org/2016/07/19/the-hottest-day.html",
-				"tags": ["microblog","job hunting","interviews","jobs","aside","weather"]
+				"tags": ["microblog","job hunting","interviews","jobs","weather"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2016/07/19/he-is-not.html",
@@ -10133,7 +10191,7 @@
 				"content_text": "\n<html><body><p>I'm having trouble with WordPress not wanting make a \"Link\" format post if I have too much other stuff in it.</p></body></html>\n",
 				"date_published": "2016-07-18T12:07:50+00:00",
 				"url": "https://devilgate.org/2016/07/18/im-having-trouble.html",
-				"tags": ["Status","aside"]
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2016/07/18/pamela-constable-on.html",
@@ -10357,7 +10415,7 @@
 				"content_text": "\n<html><body><p>Christ, we're gonna have to pull all our photos from Flickr if this goes through: <a href=\"https://www.theguardian.com/technology/2016/apr/11/daily-mail-publisher-private-equity-companies-yahoo-takeover?CMP=gu_com\">Daily Mail publisher in talks with companies over Yahoo takeover</a>.</p></body></html>\n",
 				"date_published": "2016-04-11T07:56:08+00:00",
 				"url": "https://devilgate.org/2016/04/11/daily-mail-taking.html",
-				"tags": ["Links","aside"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2016/04/08/a-fire-upon.html",
@@ -10456,7 +10514,7 @@
 				"content_text": "\n<html><body><blockquote><p>Tatiana Duva-Rodriguez of Michigan, who had been a passerby when she noticed the commotion, lost her gun-carrying permit and got 18 months’ probation.</p></blockquote>\n<p>\nThe NY <cite>Times</cite> <a href=\"http://www.nytimes.com/2015/12/12/us/woman-who-shot-at-home-depot-shoplifters-vows-to-never-help-anyone-again.html\">reports this without comment</a>. This crazy woman shot at people who were suspected of shoplifting. Not murder, not terrorism. <em>Shoplifting</em>. And the lesson she says she’s learned is, “I’ll never help anyone again.”</p>\n</body></html>\n",
 				"date_published": "2015-12-16T07:04:33+00:00",
 				"url": "https://devilgate.org/2015/12/16/woman-who-shot.html",
-				"tags": ["Links","aside","gun control"]
+				"tags": ["Links","gun control"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2015/12/16/revenge-of-the.html",
@@ -10618,7 +10676,7 @@
 				"content_text": "\n<html><body><p>I hadn't heard Zane Lowe, as I <a href=\"http://devilgate.org/blog/2015/03/13/on-missing-out-on-zane/\">mentioned before</a>. So when Apple Music launched, with its Beats 1 streaming radio service, for which Zane is the flagship DJ, I was interested to check him out.\n\nA number of sources had led me to the belief that Zane, at Radio One, had effectively been the new John Peel. Nobody can live up to that claim, I suspect, but to me it meant that he must have a particular set of talents and abilities:\n\n</p><ul>\n<li>plays music of their own choice, free from playlists mandated by the station management;</li>\n<li>actively seeks out new music;</li>\n<li>communicates their enthusiasm to the listener;</li>\n<li>plays the tracks in full, without talking over the beginning or end.</li>\n</ul>\n\nI've now heard Zane on Beats 1 a couple of times, and he certainly fulfils the first three of those criteria. But he fails dramatically on the fourth.\n\nThe thing with Peelie was, he played the track. He respected it, gave it space to succeed or fail on its own merit. Certainly he'd say, \"This is the new one from so-and-so, and I think it's great,\" or whatever; but then he'd let you hear the record. The actual record. All of it. The whole thing.[^fn1]\n\nZane does not do that.\n\nNo, I'm afraid he talks over the records. And not just over instrumental intros or \"chasing the fade,\" either. I've heard him popping up right in the middle of a song with a word or two.\n\nOne of the people who spoke highly of Zane was <a href=\"https://twitter.com/imyke\">Myke Hurley</a> of <a href=\"http://relay.fm\">Relay FM</a>, the podcast network. In particular I had heard him talking on the <a href=\"http://relay.fm/upgrade\">Upgrade podcast</a> about what a good guy Zane was.\n\nSo when I heard Mr Lowe talking over the tracks, I tweeted with the <a href=\"https://twitter.com/hashtag/askupgrade\">#AskUpgrade</a> tag, which is one of their feedback mechanisms:\n\n<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/hashtag/AskUpgrade?src=hash\">#AskUpgrade</a> Myke, if Zane Lowe is so great, how come he talks over the records (err, tracks)? Isn't meant to be in the Peel mould?</p>— Martin McCallion (@devilgate) <a href=\"https://twitter.com/devilgate/status/619459112951222272\">July 10, 2015</a></blockquote>\n\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\nThey read out my question on the next episode, <a href=\"http://www.relay.fm/upgrade/45\">45, I think</a>. Make said I sounded \"very angry\", which I wasn't -- just disappointed. And then we exchanged a few tweets:\n\n<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/imyke\">[@imyke](https://micro.blog/imyke)</a> Thanks for answering my Zane Lowe question on Upgrade. I wasn’t “very angry”, just disappointed, as I’d hoped for a new Peel.</p>— Martin McCallion (@devilgate) <a href=\"https://twitter.com/devilgate/status/620943218579009536\">July 14, 2015</a></blockquote>\n\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/imyke\">[@imyke](https://micro.blog/imyke)</a> One of Peel’s gifts was that he talked about the music between the tracks. (Which among other things made it easy to record them.)</p>— Martin McCallion (@devilgate) <a href=\"https://twitter.com/devilgate/status/620943717504040960\">July 14, 2015</a></blockquote>\n\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/devilgate\">[@devilgate](https://micro.blog/devilgate)</a> I don’t know if I’d call that a ‘gift’ \n\nIf all you’re looking for is the music, subscribe to zane’s playlists</p>— Myke Hurley (@imyke) <a href=\"https://twitter.com/imyke/status/620944044512931840\">July 14, 2015</a></blockquote>\n\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<blockquote class=\"twitter-tweet\" lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/imyke\">[@imyke](https://micro.blog/imyke)</a> No, “trick”, or “technique”, maybe. Thing is I’d like the talk, the enthusiasm; just not over the music.</p>— Martin McCallion (@devilgate) <a href=\"https://twitter.com/devilgate/status/620944298121560064\">July 14, 2015</a></blockquote>\n\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\nAnd that's about where we left it. I don't think I got across my main point very well (140 characters is hard sometimes). But I've expressed it clearly enough up top there, I think.\n\nBeats One is still interesting, and Apple Music has many interesting features. But I'm still looking for a DJ that knows how to treat records right.</body></html>\n\n\n[^fn1]: Sometimes that was true even when \"record\" equalled \"album\".\n\n",
 				"date_published": "2015-08-21T07:53:21+00:00",
 				"url": "https://devilgate.org/2015/08/21/on-djs-beats.html",
-				"tags": ["music","apple music","radio","zane lowe","beats 1","podcasts","myke hurley","djs"]
+				"tags": ["music","radio","zane lowe","beats 1","podcasts","myke hurley","djs"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2015/08/18/mind-of-my.html",
@@ -10699,7 +10757,7 @@
 				"content_text": "\n<html><body><p>A test from the iPhone <em>Editorial</em> app. </p>\n</body></html>\n",
 				"date_published": "2015-06-17T01:57:48+00:00",
 				"url": "https://devilgate.org/2015/06/17/test-from-editorial.html",
-				"tags": ["iphone","aside"]
+				"tags": ["iphone"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2015/05/26/todays-xkcd-is.html",
@@ -10906,7 +10964,7 @@
 				"content_text": "\n<html><body><blockquote>\n  Malcolm Reynolds’ twelve-headed hydra wang of hate for the alliance doesn’t come from outrage over the dubious morality of a couple of black bag cabals within the government\n</blockquote>\n\nAn excellent analysis of <cite>Firefly</cite> and <cite>Serenity</cite>, by someone who loves them as all right-thinking people should.\n\nvia <a href=\"https://misterkristoff.wordpress.com/2015/02/09/newsflash-the-firefly-guys-were-villains/\">Newsflash: the Firefly guys were villains | Jay Kristoff - Literary Giant</a>.</body></html>\n",
 				"date_published": "2015-02-10T22:38:51+00:00",
 				"url": "https://devilgate.org/2015/02/10/newsflash-the-firefly.html",
-				"tags": ["sf","tv","aside","firefly","serenity"]
+				"tags": ["sf","tv","firefly","serenity"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2015/01/19/clothes-clothes-clothes.html",
@@ -11445,7 +11503,7 @@
 				"content_text": "\n<html><body><p>Another from the \"never posted\" series. Again, I don't know why I didn't post it. It seems pretty finished. It's also wildly out of date, stemming is it does from 2006. 2006! That's eight years ago now! Where the hell does the time go?\n\nAnyway, the original piece follows.\n\n</p><blockquote>\n  Religion is much in discussion at the moment, it seems, and atheism even more so.\n  \n  The Archbishop of Canterbury <a href=\"http://www.politics.co.uk/news/2006/10/27/archbishop-warns-of-dangers-of-banning-veils\">has said that</a>\n  \n  <blockquote>\n    the ideal of a society where no visible public signs of religion would be seen — no crosses around necks, no sidelocks, turbans or veils — is a politically dangerous one\n  </blockquote>\n  \n  But no-one has been trying to do that.  True, there have recently been two cases in which employers have restricted what their staff can wear, with regard to items related to religions.  Now, whether employers should be able to insist on such restrictions is one question, and a valid one to be asked; but it's not something new, nor unique to religious clothes.\n  \n  And it's not as if anyone other than British Airways has done anything to restrict the display of Christian symbols.  The woman in question there was in a uniformed occupation, and the cross violated the uniform code.  Case closed.  Do you think it would have been any different for a police officer or ambulance driver?  If you want to get the uniform rules in your job changed, speak to your employer, go through your union, or whatever: but keep the courts out of it.  Similarly if you are in a non-uniformed job with a dress code.\n  \n  All of which is different from -- almost orthogonal to -- the case of Jack Straw asking Muslim women to remove their veils during a conversation (note: asking, not insisting; during a conversation, not forever).\n  \n  I got the impression from the radio news this morning that the ArchieCant was trying to play the \"persecuted Christian\" card, railing against the overwhelming forces of our secular society.  But having scanned his <a href=\"http://rowanwilliams.archbishopofcanterbury.org/articles.php/638/both-crosses-and-veils-must-be-allowed-times-article\">actual article</a>, I see that that is not quite so.  Rather, he is warning of the dangers of a society which only allows state-sanctioned religions to exist.  Fair point, but again, not something that anyone is suggesting in Britain.\n  \n  There's no excuse for a Christian leader to complain about his (and it is always \"his\") religion's place in modern Britain (or, even more so, America).  The various Christian churches, and the church of England in particular, hold a remarkably privileged position in British public life, from the head of state being also the head of the church, through the tax-free status of religions, right up to the exclusively-religious nature of Radio 4's 'Thought for the Day' (and that's not even mentioning the 'Daily Worship' or the complete takeover from 8 on Sunday mornings).\n  \n  Then the Education Minister Alan Johnson has changed the former intent of the government regarding allowing non-believers (or different-believers) into new \"faith\" schools.  Now don't get me wrong: I am utterly opposed to \"faith\" schools: one great thing that America gets right, in my opinion, is it's implementation of the separation of church and state that bans states from enforcing religious observation in schools, and I would happily see it removed from schools here.  But we are where we are, and if there are going to be new, state-funded schools that base part of their teaching on a religion, then I think that the worst thing possible would be for them to be <em>exclusively</em> pupilled by kids from families who are followers of that religion.\n  \n  And remember I went exclusively to state Catholic schools in Scotland.\n</blockquote></body></html>\n",
 				"date_published": "2014-04-15T23:00:42+00:00",
 				"url": "https://devilgate.org/2014/04/15/religion-faith-schools.html",
-				"tags": ["atheism","religion","britain today"]
+				"tags": ["religion","britain today"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2014/04/14/the-state-of.html",
@@ -11454,7 +11512,7 @@
 				"content_text": "\n<html><body><p>Well this is an interesting one. Nasim is an old friend. Or it might be more accurate to say she was the big sister of an old friend. She lived two doors down the road when I was growing up. Her younger brothers were both close friends of mine. A few weeks ago I came across some old email, and it made me think of them. I knew that Nasim had had a story or two published, so I googled her. Found <a href=\"http://velo-gubbed-legs.blogspot.co.uk/\">her blog</a>, discovered she’d had a novel published, ordered it from Amazon, and here we are.\n\nIn doing all this I got back in touch with her and with her brother, Yusuf, who I haven’t see in I don’t know how many years. So it’s all good.\n\nBut what about the book, I hear you ask?\n\nWell, it’s not the kind of thing I’d normally choose to read — or not without a serious recommendation from a friend, for example. But it’s really, really good.\n\nIt’s a fictionalised autobiography, in that the protagonist goes through the same experience with contracting ME (<a href=\"http://www.meassociation.org.uk/\">Myalgic Encephalopathy</a>) that Nasim herself did. And it’s set partly in Balloch, where we grew up.\n\nFar more importantly, though, it’s a really good book. The characters are believable, especially the protagonist, Helen. That might be just as you'd expect, as they're drawn from life; but I strongly suspect that it's no easier to write a convincing character based on a real person -- even yourself -- than to write one who is completely imaginary.[^fn1] We are drawn in to her inner life, her loves and her problems, and we are glad to be.\n\nWhen she is laid low by the hateful condition, we feel her every twinge and ache. When she falls in love we fall right with her. And that's an important point: this isn't a misery memoir; it's by no means all about the illness, or even about Helen's responses to the illness. ME affects and influences everything in her life, but she still manages to <em>have</em> a life, and Nasim makes it an interesting one, one we're happy to share for a while.\n\nYet at the same time she manages to educate us about ME, through Helen's own learning about it. It is still a little-understood condition, with underfunded research and <a href=\"http://www.meassociation.org.uk/2014/04/me-association-oppose-nice-decision-not-to-review-their-guideline-on-mecfs-11-april-2014/\">mistaken guidelines from NICE</a>.\n\nAll in all, it's a fine debut, and I look forward to reading more from Nasim.</p></body></html>\n\n\n[^fn1]: And of course, consciously or not, writers always draw on the real people they've met when constructing their characters. What else is there, after all?\n",
 				"date_published": "2014-04-14T22:21:33+00:00",
 				"url": "https://devilgate.org/2014/04/14/the-state-of.html",
-				"tags": ["books","books 2014","balloch","nasim marie jafry","old friends"]
+				"tags": ["books","books 2014","nasim marie jafry","old friends"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2014/04/11/secret-diaries.html",
@@ -11625,7 +11683,7 @@
 				"content_text": "\n<html><body><p>Once again I won’t be reaching NaNoWriMo’s 50,000-word mark this year, but I have written over 30,000, which is the most ever. And I finished a novella at the start. So I’m pretty happy.</p>\n</body></html>\n",
 				"date_published": "2013-11-28T09:02:17+00:00",
 				"url": "https://devilgate.org/2013/11/28/once-again-i.html",
-				"tags": ["Status","writing","nanowrimo","aside"]
+				"tags": ["Status","writing","nanowrimo"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2013/11/15/thats-a-lot.html",
@@ -11661,7 +11719,7 @@
 				"content_text": "\n<html><body><p>3,446 words today for a NaNoWriMo total so far of 15,724. That also completes a 20,000 word novella called “All Tomorrow’s Troubles”. Going well. Now I can get back to my novel.</p>\n</body></html>\n",
 				"date_published": "2013-11-09T12:24:36+00:00",
 				"url": "https://devilgate.org/2013/11/09/words-today-for.html",
-				"tags": ["writing","aside"]
+				"tags": ["writing"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2013/11/05/this-short-story.html",
@@ -11670,7 +11728,7 @@
 				"content_text": "\n<html><body><p>This “short story” that I was going to knock out before getting back to my novel is growing into a behemoth. At 12000 words it’s thoroughly a novelette, and heading squarely for novella-land.</p>\n</body></html>\n",
 				"date_published": "2013-11-05T23:32:03+00:00",
 				"url": "https://devilgate.org/2013/11/05/this-short-story.html",
-				"tags": ["Status","microblog","writing","nanowrimo","aside","novellas","novelettes"]
+				"tags": ["Status","microblog","writing","nanowrimo","novellas","novelettes"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2013/10/24/shadows-new-carpet.html",
@@ -11688,7 +11746,7 @@
 				"content_text": "\n<html><body><blockquote><p><a href=\"http://2001italia.blogspot.ca/2013/10/2001-aliens-that-almost-were.html\">[W]e could summarize the whole ordeal by saying that Kubrick tried to the last minute not to follow Sagan's advice!</a>.</p>\n</blockquote>\n\n\nAn interesting piece on Kubrick, Clarke and collaborators trying to design the aliens for <cite>2001: A Space Odyssey</cite>.\n\nVia [Daring Fireball](http://daringfireball.net/linked/2013/10/17/2001-aliens).</body></html>\n",
 				"date_published": "2013-10-18T12:51:33+00:00",
 				"url": "https://devilgate.org/2013/10/18/the-aliens-that.html",
-				"tags": ["Films","Links","aside","clarke","kubrick"]
+				"tags": ["Films","Links","clarke","kubrick"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2013/10/16/201431.html",
@@ -11715,7 +11773,7 @@
 				"content_text": "\n<html><body><p>\"He's really a guitar player but he uses a camera\": <a href=\"http://thequietus.com/articles/13364-lou-reed-mick-rock-interview\">Interview at <cite>The Quietus</cite> with Lou Reed and Mick Rock</a>, the photographer who took, among many other things, the <cite>Transformer</cite> cover shot.</p></body></html>\n",
 				"date_published": "2013-10-09T13:58:50+00:00",
 				"url": "https://devilgate.org/2013/10/09/hes-really-a.html",
-				"tags": ["music","photography","aside"]
+				"tags": ["music","photography"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2013/09/21/the-summer-of.html",
@@ -12084,7 +12142,7 @@
 				"content_text": "\n<html><body><a href=\"http://www.guardian.co.uk/media/2012/jul/17/bbc-lawyers-appeal-riots-drama\">BBC lawyers consider formal appeal over court ban on riots drama | Media | guardian.co.uk</a>.\n\nThe most chilling thing about this is not so much banning the broadcast; there could conceivably be a legitimate reason for that, though it's hard to imagine a good one.  Rather it is this:\n<blockquote>For legal reasons, the Guardian cannot name the judge who made the ruling, the court in which he is sitting or the case he is presiding over.</blockquote>\n\n<p>\nThis meta-blocking smacks of the \"superinjunctions\" that we heard a lot about a few years back (but which strangely seem to have dropped out of sight recently).\n</p></body></html>\n",
 				"date_published": "2012-07-18T14:44:19+00:00",
 				"url": "https://devilgate.org/2012/07/18/a-british-court.html",
-				"tags": ["Links","aside"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2012/07/02/tip-using-pandoc.html",
@@ -12300,7 +12358,7 @@
 				"content_text": "\n<html><body><p>[Great use of Bash scripting to do a maths puzzle, but demonstrating lots of useful features.](http://penguinpetes.com/b2evo/index.php?title=using_bash_to_solve_a_brain_teaser&amp;more=1&amp;c=1&amp;tb=1&amp;pb=1)\n\n</p></body></html>\n",
 				"date_published": "2012-02-22T00:49:47+00:00",
 				"url": "https://devilgate.org/2012/02/22/penguin-petes-blog.html",
-				"tags": ["Links","maths","puzzles","bash","linux"]
+				"tags": ["Links"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2012/02/21/134401.html",
@@ -12704,7 +12762,7 @@
 				"content_text": "\n<html><body><p>How good scripts get turned into bad movies: <a href=\"http://www.scriptsecrets.net/tips/tip215.htm\">Screenwriting Tip Of The Day by William C. Martell - Romeo to Rambo</a>\n\n</p></body></html>\n",
 				"date_published": "2010-09-24T15:00:36+00:00",
 				"url": "https://devilgate.org/2010/09/24/link-screenwriting-tip.html",
-				"tags": ["writing","Links","aside","wp-post","movies","scripts"]
+				"tags": ["writing","Links","wp-post","movies","scripts"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2010/09/08/summer-reading.html",
@@ -12785,7 +12843,7 @@
 				"content_text": "\n<html><body><p>\"The first step is waking up.\"  Brilliant: <a href=\"http://www.orbitbooks.net/2009/11/30/how-to-write-a-story/\">How to Write a Story, by Robert Jackson Bennett</a>\n\n</p></body></html>\n",
 				"date_published": "2010-04-30T17:00:21+00:00",
 				"url": "https://devilgate.org/2010/04/30/link-how-to.html",
-				"tags": ["writing","sf","Links","aside","wp-post"]
+				"tags": ["writing","sf","Links","wp-post"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2010/04/29/link-longstanding-party.html",
@@ -12794,7 +12852,7 @@
 				"content_text": "\n<html><body><p>\"... But May 2010 offers a once-in-a-generation opportunity to reshape politics for the better. It must be seized.\"\n\nFascinating list of signatories to this letter in _The Guardian_: <a href=\"http://www.guardian.co.uk/politics/2010/apr/28/lib-dems-party-of-progress\">\"Long-standing party loyalties, even in a less tribal world, are not easily suspended</a>\n\n</p></body></html>\n",
 				"date_published": "2010-04-29T00:45:40+00:00",
 				"url": "https://devilgate.org/2010/04/29/link-longstanding-party.html",
-				"tags": ["Links","britain today","guardian","aside","wp-post","lib-dems"]
+				"tags": ["Links","britain today","guardian","wp-post","lib-dems"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2010/04/27/from-easter-to.html",
@@ -12803,7 +12861,7 @@
 				"content_text": "\n<html><body><p>I don't get round to these things quickly, but this is, at least in part, a report on my family's visit to Eastercon.  This year the British National Science Fiction Convention was practically on our doorstep, just the other side of London, at Heathrow.\n\nAs with [two years ago][easter2008], my son wanted to come.  And since my daughter did as well, my beloved bit the bullet and came along too.  SF isn't totally her thing, but I think she may have enjoyed the weekend more than any of us.\n\n[easter2008]: http://devilgate.org/blog/2008/04/03/that-reporting-back-from-eastercon-business/ \"Eastercon 2008\"\n\nThe telling detail was this: there are lots of things to do.\n\nI tend to use cons as a way of seeing friends that I haven't seen for a while -- often not since the last con I was at.  So I mainly hang out in the bar.  Or that, at least, is the impression I gave -- give -- to people who don't go to cons.\n\nIn fact, I have always gone to programme items.  I guess I just never made a big thing of them when I got home.\n\nThis con -- [Odyssey 2010][odyssey2010] -- had a particularly good set of programme items for kids.  There were hands-on science workshops, making Dalek cakes, and building string-propelled robots (my son won a prize for the best ramp-mounting attempt).  And not least, a thrilling battle between various knights of the [Society for Creative Anachronism](http://www.sca.org/) (SCA).\n\n[odyssey2010]: http://www.odyssey2010.org/\n\nThe programme was full of fascinating and fun things, many of which I wanted to see, but didn't manage to, as ever.\n\nAnd of course, I saw a lot of old friends, and had a good time hanging out in the bar with them.\n\nWe only stayed for the Friday and Saturday nights, to keep costs down.  But after going home on the Sunday (and watching the new <cite>Doctor Who</cite> again), we went back on the Monday, and spent most of the day back at the [Radisson] [Radisson].\n\n[Radisson]: http://www.radissonedwardian.com/londonuk_heathrow \"The Eastercon 2010 Hotel\"\n\nTravelling all across London was a bit of drag, but it was a lot shorter than many people's journeys.  And of course, there was absolutely no chance of [ash-induced delays] [volcano].\n\n[volcano]: http://news.bbc.co.uk/1/hi/in_depth/europe/2010/iceland_volcano/default.stm\n\nAm I a bad person because I found all the volcanic disruption kind of amusing and quite fun, really?  The cloudless and contrail-free blue skies over London were gorgeous, and it was interesting to follow people's tweets of how they were striving to get home.  And a world with a lot fewer flights is something we're probably going to have to face in the future.\n\nWhat annoyed me about it all were the idiots who blamed the government.  Marginally more sensible than blaming 'god', I suppose<sup id=\"fnref:1\"><a href=\"#fn:1\" rel=\"footnote\">1</a></sup>, but even if anything other than sending in the Navy had been the government's decision, can you imagine the fuss if flights had been allowed to go ahead, and there _had_ been a disaster?\n\nPlus, the idea of getting a trip home on the _[Ark Royal](http://en.wikipedia.org/wiki/HMS_Ark_Royal \"Not the original one, though\")_ is pretty cool.\n\n---\n\n</p><ol>\n\n<li id=\"fn:1\">\n<p>As somebody said, if that's an act of god, then it's a pretty limited kind of omnipotent deity.\n   <a href=\"#fnref:1\" rev=\"footnote\">↩</a></p>\n</li>\n\n</ol></body></html>\n",
 				"date_published": "2010-04-27T22:56:05+00:00",
 				"url": "https://devilgate.org/2010/04/27/from-easter-to.html",
-				"tags": ["sf","events","science fiction","eastercon","conventions","cons","ash cloud","volcano"]
+				"tags": ["sf","events","science fiction","eastercon","conventions","cons","volcano"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2010/04/12/subway-calling.html",
@@ -12848,7 +12906,7 @@
 				"content_text": "\n<html><body><p>Brilliant analysis of what could have been \"really\" happening in Avatar.  Don't read if you haven't seen the film.: <a href=\"https://web.archive.org/web/20100108222401/http://tersesystems.com/post/by_id/980008\">An Awesome Interpretation of Avatar</a>\n\n</p></body></html>\n",
 				"date_published": "2010-01-05T17:00:07+00:00",
 				"url": "https://devilgate.org/2010/01/05/link-an-awesome.html",
-				"tags": ["sf","Links","aside","wp-post","movies"]
+				"tags": ["sf","Links","wp-post","movies"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/12/31/decades-end.html",
@@ -12866,7 +12924,7 @@
 				"content_text": "\n<html><body><p>\"Sentient sentences\": an astonishing piece of work.: <a href=\"http://consc.net/misc/moser.html\">A Self-Referential Story</a>\n\n</p></body></html>\n",
 				"date_published": "2009-10-17T11:00:29+00:00",
 				"url": "https://devilgate.org/2009/10/17/link-a-selfreferential.html",
-				"tags": ["writing","Links","aside","wp-post"]
+				"tags": ["writing","Links","wp-post"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/10/14/a-quote-from.html",
@@ -12875,7 +12933,7 @@
 				"content_text": "\n<html><body><blockquote>\nASKING FOR MONEY FOR YOUR ART IS NOT SELLING OUT.\n\nselling out is when you go against your own heart, ideals and authenticity to make money.\n\nselling out is an action, a 180 from a stated position.\n\ni don't consider pop stars to be sell-outs.\nthe lady gagas, britneys and madonnas of the world are UNABASHED about why they got in this game: fame, money, über-success, chart-topping hits.\n\nbut if neil young were to suddenly hire the matrix to write him a thumpin' dance album and then appear on saturday night live snogging bob dylan, i'd have reservations about his integrity.\n</blockquote>\n\nFrom <a href=\"http://blog.amandapalmer.net/post/212321239/virtual-crowdsurfing\">Virtual Crowdsurfing</a></body></html>\n",
 				"date_published": "2009-10-14T12:28:18+00:00",
 				"url": "https://devilgate.org/2009/10/14/a-quote-from.html",
-				"tags": ["music","Links","aside","quotes","art","integrity"]
+				"tags": ["music","Links","quotes","integrity"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/10/07/link-do-i.html",
@@ -12884,7 +12942,7 @@
 				"content_text": "\n<html><body><p>God save us from crazy religious nutters.\n\nThe title is taken from 'Wandrin' Star', by the way.: <a href=\"http://web.archive.org/web/20071215085841/http://www.mndaily.com/articles/1997/01/17/2982\">Do I know where hell is?  Hell is in \"Hello\"</a>\n\n</p></body></html>\n",
 				"date_published": "2009-10-07T16:00:08+00:00",
 				"url": "https://devilgate.org/2009/10/07/link-do-i.html",
-				"tags": ["religion","Links","aside","wp-post","loonies"]
+				"tags": ["religion","Links","wp-post","loonies"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/10/07/link-a-report.html",
@@ -12893,7 +12951,7 @@
 				"content_text": "\n<html><body><p>Amazing story.  Hard to believe that the benefits of aerobic exercise were unknown as recently as the 1940s.: <a href=\"http://www.ft.com/cms/s/2/e6ff90ea-9da2-11de-9f4a-00144feabdc0.html\">A report on FT.com: The man who invented exercise</a>\n\n</p></body></html>\n",
 				"date_published": "2009-10-07T12:00:31+00:00",
 				"url": "https://devilgate.org/2009/10/07/link-a-report.html",
-				"tags": ["Links","exercise","aside","wp-post","old-age"]
+				"tags": ["Links","exercise","wp-post","old-age"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/09/12/transitions-in-real.html",
@@ -12929,7 +12987,7 @@
 				"content_text": "\n<html><body><p>But these days, if I try to write a post of more than 140 characters, I get a strange, compressed feeling.  Things start to slow... down...</p></body></html>\n",
 				"date_published": "2009-06-19T12:51:57+00:00",
 				"url": "https://devilgate.org/2009/06/19/i-really-need.html",
-				"tags": ["twitter","joke","aside"]
+				"tags": ["twitter","joke"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/05/07/publication.html",
@@ -12947,7 +13005,7 @@
 				"content_text": "\n<html><body><p>[Twitter](http://twitter.com/) seems to be down at the moment - or at least, it's not accepting tweets, and I can't log in at the website.  But how do we know what's happening without Twitter to tell us?\n\n*Edit:* back to normal now.  I'm [@devilgate](http://twitter.com/devilgate), of course.\n</p></body></html>\n",
 				"date_published": "2009-03-04T23:41:14+00:00",
 				"url": "https://devilgate.org/2009/03/04/without-twitter-how.html",
-				"tags": ["twitter","blogging","aside"]
+				"tags": ["twitter","blogging"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/02/19/masks-of-the.html",
@@ -12974,7 +13032,7 @@
 				"content_text": "\n<html><body><p>This has been the third year in which I have read a volume of <cite>The Baroque Cycle</cite> over the summer.  <a href=\"http://devilgate.org/blog/2007/01/21/book-notes-23-quicksilver-by-neal-stephenson/\">I loved the first</a>, despite its dip after the first book.  <a href=\"/pages/books-2007/the-confusion-by-neal-stephenson-books-2007-16/\">The second was slower</a> - in fact suffering from classic middle-volume <em>longeurs</em>.  I thoroughly enjoyed them both, though.\n\nThis third volume is the best of the three.  I enjoyed it so much that, towards the end (that is, in the last two-hundred-or-so pages) I found myself sometimes avoiding reading it, because I didn't want it to be over.\n\nThe focus is very much back with Daniel Waterhouse, where it started, which is good from my point of view.  Jack Shaftoe and Eliza (Duchess of the preposterously named Qwghlm) are in there too, of course.\n\nAnd, it's too damn <em>long</em> for me to write much more about it.  If you've read the first two, you will, of course, want to read this.  If you haven't read any of them, you should.</p></body></html>\n",
 				"date_published": "2009-02-19T11:58:39+00:00",
 				"url": "https://devilgate.org/2009/02/19/the-system-of.html",
-				"tags": ["books","neal stephenson","baroque cycle","books 2008"]
+				"tags": ["books","neal stephenson","books 2008"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2009/02/19/pattern-recognition-by.html",
@@ -13100,7 +13158,7 @@
 				"content_text": "\n<html><body><blockquote>\n  Bursts aren't contentless, nor do they denote the end of Attention Span. If attention span was dead, JK Rowling wouldn't be selling paperbacks thick enough to choke a pig, and Neal Stephenson wouldn't be making a living off books the size of the first bedsit I lived in.\n  —  <a href=\"http://www.warrenellis.com/?p=4374\">Burst Culture</a>\n</blockquote></body></html>\n",
 				"date_published": "2008-10-24T01:07:15+00:00",
 				"url": "https://devilgate.org/2008/10/24/a-quote-from.html",
-				"tags": ["warren ellis","attention","quotes"]
+				"tags": ["warren ellis","quotes"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/10/13/thigmoo-by-eugene.html",
@@ -13154,7 +13212,7 @@
 				"content_text": "\n<html><body><div style=\"float: right; margin-left: 10px; margin-bottom: 10px;\">\n <a href=\"http://www.flickr.com/photos/devilgate/2818478377/\" title=\"photo sharing\"><img src=\"http://farm4.static.flickr.com/3148/2818478377_1edbe25cc3_m.jpg\" alt=\"\" style=\"border: solid 2px #000000;\"></a>\n <br>\n <span style=\"font-size: 0.9em; margin-top: 0px;\">\n  <a href=\"http://www.flickr.com/photos/devilgate/2818478377/\">Watermelon Sculpture</a>\n  <br>\n  Originally uploaded by <a href=\"http://www.flickr.com/people/devilgate/\">devilgate</a>.\n </span>\n</div>\nMy son's first sculpture. Clearly Halloween can't come soon enough (though watermelon is a lot easier to carve than pumpkin)\n<br clear=\"all\"></body></html>\n",
 				"date_published": "2008-09-01T21:41:51+00:00",
 				"url": "https://devilgate.org/2008/09/01/watermelon-sculpture.html",
-				"tags": ["photos","aside"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/08/26/a-series-of.html",
@@ -13172,7 +13230,7 @@
 				"content_text": "\n<html><body><p>We experienced the best and worst of the London cabbie last night: from not taking a fare because to do so would have been a rip-off, to attempted murder.\n\nWe were going to an <a href=\"http://www.absolutearts.com/artsnews/2008/08/21/35158.html\">exhibition opening</a>, and had got off the bus wildly too early.  We were walking in the right direction, but weren't quite sure where the gallery was, and we were running late.  So we flagged down a passing cab and asked for the street.  \"It's just over there,\" he said, pointing,  \"Don't waste your money.\"\n\nIt was, indeed, just over there.  Admirable behaviour, I thought, as he could easily have made a few quid taking us there.\n\nAfter we left and were walking to the bus stop, there was an altercation between a cab driver and a cyclist.  I didn't see how it started, but there was shouting and gesticulation, and the cabbie started to get out of his cab.\n\nThe cyclist headed off up the road, and suddenly the cabbie roared off after him.  It looked like nothing less than an attempt to run the cyclist down.\n\nI guess the cabbie came to his senses, because I don't think he actually hit the guy.  The cyclist very sensibly got off the road and cycled down the pavement in the opposite direction.  The cab zoomed off up the road, to fast and  too far away for me to get its number, unfortunately.  I had my phone out ready to call the cops.\n\nThe cyclist seemed to be OK, physically at least.  We saw him back on the road and heading in the direction he had been going.  It's scary to think, though, that you could either be that cyclist, or get into that guy's cab.</p></body></html>\n",
 				"date_published": "2008-08-22T13:08:13+00:00",
 				"url": "https://devilgate.org/2008/08/22/the-london-cabbie.html",
-				"tags": ["cycling","exhibitions","cabbies","attempted murder"]
+				"tags": ["cycling","exhibitions","cabbies"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/07/31/whats-that-stand.html",
@@ -13180,8 +13238,7 @@
 				"content_html": "<p>I remember several years ago when the right answer to this was given wrong on <!-- raw HTML omitted -->University Challenge<!-- raw HTML omitted -->; but you&rsquo;d think that, after all this time, <!-- raw HTML omitted -->The Guardian<!-- raw HTML omitted -->&rsquo;s <em>Technology</em> section would <a href=\"http://www.guardian.co.uk/technology/2008/jul/31/internet.technology\">know what URL stands for</a>.</p>\n<p>Tip: it&rsquo;s <em>uniform</em>, not universal.</p>\n",
 				"content_text": "I remember several years ago when the right answer to this was given wrong on <cite>University Challenge</cite>; but you'd think that, after all this time, <cite>The Guardian</cite>'s *Technology* section would [know what URL stands for](http://www.guardian.co.uk/technology/2008/jul/31/internet.technology).\n\nTip: it's _uniform_, not universal.\n",
 				"date_published": "2008-07-31T09:31:28+00:00",
-				"url": "https://devilgate.org/2008/07/31/whats-that-stand.html",
-				"tags": ["aside"]
+				"url": "https://devilgate.org/2008/07/31/whats-that-stand.html"
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/07/30/ff-on-linux.html",
@@ -13189,8 +13246,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n<html><body><p>Well, \"that business with installing Firefox 3 on Linux\":http://devilgate.org/blog/2008/06/20/it-is-_immensely_-annoying-that-you-can/?  Finally done on my Eee PC.  Took ages, but the instructions worked more-or-less perfectly.</p></body></html>\n",
 				"date_published": "2008-07-30T23:34:42+00:00",
-				"url": "https://devilgate.org/2008/07/30/ff-on-linux.html",
-				"tags": ["aside"]
+				"url": "https://devilgate.org/2008/07/30/ff-on-linux.html"
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/06/26/the-gun-club.html",
@@ -13208,7 +13264,7 @@
 				"content_text": "\n<html><body><p>It is _immensely_ annoying that you can't just download and  install Firefox 3 on Linux (at least the Xandros distro that comes with the Eee PC) without having to install something called Gtk+ 2.10.  Not least because you can't just `apt-get install` the latter: you _have_ to build it from source, and handle countless dependencies.  Really, I thought we were supposed to have got past all that shit.\n\n[This page](http://forum.eeeuser.com/viewtopic.php?pid=294847) details the steps.</p></body></html>\n",
 				"date_published": "2008-06-20T18:39:50+00:00",
 				"url": "https://devilgate.org/2008/06/20/it-is-immensely.html",
-				"tags": ["aside","firefox","firefox 3","linux gtk+","outdated software practices"]
+				"tags": ["firefox","firefox 3","linux gtk+","outdated software practices"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/06/20/a-dream-of.html",
@@ -13226,7 +13282,7 @@
 				"content_text": "\n<html><body><p>Phoenix has \"found water on Mars\":[phoenix.lpl.arizona.edu/,](http://phoenix.lpl.arizona.edu/,) by the way.</p></body></html>\n",
 				"date_published": "2008-06-20T01:36:47+00:00",
 				"url": "https://devilgate.org/2008/06/20/water-on-mars.html",
-				"tags": ["mars","aside","space exploration","phoenix"]
+				"tags": ["mars","space exploration","phoenix"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/06/20/fluidity.html",
@@ -13235,7 +13291,7 @@
 				"content_text": "\n<html><body><p>Why does no-one make themes that are fluid anymore?  By which I mean ones that re-flow the text when you resize your browser window, of course.</p></body></html>\n",
 				"date_published": "2008-06-20T01:33:24+00:00",
 				"url": "https://devilgate.org/2008/06/20/fluidity.html",
-				"tags": ["aside","fluid","themes"]
+				"tags": ["fluid","themes"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/06/20/new-theme.html",
@@ -13244,7 +13300,7 @@
 				"content_text": "\n<html><body><p>Have just activated a new theme for this site.  It's called \"MNML\":[themeshaper.com/mnml-a-tu...](http://themeshaper.com/mnml-a-tumblelog-style-wordpress-theme/,) and it's designed especially for quick posts.  As ever, I'm not quite sure about it yet, but we'll seee.</p></body></html>\n",
 				"date_published": "2008-06-20T01:13:01+00:00",
 				"url": "https://devilgate.org/2008/06/20/new-theme.html",
-				"tags": ["meta","aside"]
+				"tags": ["meta"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2008/06/17/the-space-machine.html",
@@ -13451,7 +13507,7 @@
 				"content_text": "\n<html><body><p>I see that <a href=\"http://news.bbc.co.uk/1/hi/uk/7157409.stm\">Tony Blair has become a catholic</a>.  No surprise there.  But as an ex-catholic atheist myself, I'm feeling down with <a href=\"http://news.bbc.co.uk/1/hi/uk_politics/7151346.stm\">Nick Clegg</a>.\n\nIn other catholic-related news, there's a fine <a href=\"http://news.bbc.co.uk/1/hi/magazine/7155581.stm\">analysis of 'Fairytale of New York</a> on the BBC website, after the Radio 1 farrago.  And I hadn't realised that Shane McGowan's birthday is Christmas Day.  So as well as <a href=\"http://agnosticism.tribe.net/thread/2ba9a16c-0499-4142-a504-f5933eeaff54\">Newtonmas</a>, we can also celebrate McGowanmas on Tuesday.\n\nRationalism and excess: what a fine seasonal combination.</p></body></html>\n",
 				"date_published": "2007-12-22T14:19:54+00:00",
 				"url": "https://devilgate.org/2007/12/22/nutters-emigration-death.html",
-				"tags": ["music","atheism","religion","britain today","catholicism","christmas","pogues","tony blair","shane mcgowan","newtonmas"]
+				"tags": ["music","religion","britain today","catholicism","christmas","pogues","tony blair","shane mcgowan","newtonmas"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2007/12/19/lucky-jim-by.html",
@@ -13559,7 +13615,7 @@
 				"content_text": "\n<html><body><a href=\"http://www.guardian.co.uk/theguide/columnists/story/0,,2145124,00.html\">Charlie Brooker's screen burn | The Guide | Guardian Unlimited</a>\n<q>'Spirituality' is what cretins have in place of imagination.</q></body></html>\n",
 				"date_published": "2007-09-04T00:26:57+00:00",
 				"url": "https://devilgate.org/2007/09/04/a-quote-from.html",
-				"tags": ["religion","aside"]
+				"tags": ["religion"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2007/09/03/the-only-transformer.html",
@@ -13863,7 +13919,7 @@
 				"content_text": "\n<html><body><p>This is a very, very strange book.  It's strange in the spacefaring future it describes, but it's probably even stranger linguistically.\n\nI used to read John Clute's book reviews in <a href=\"http://www.ttapress.com/IZ.html\"><cite>Interzone</cite></a>, years ago, when he reviewed there regularly,[^hst] so linguistic strangeness was exactly what I expected when I picked this up.\n\nWhat I mean by linguistic strangeness is this: you used to have to read his reviews with a good dictionary to hand, and if you were diligent you might learn three new words in even the shortest review.  His erudition was legendary, and he liked to display it.  At first that used to annoy me, because it seemed that he chose willfully obscure words: he appeared to be doing no more than displaying his vocabulary for its own sake.  Showing off, in other words.\n\nBut as time went on I grew to appreciate the way he made us stretch, and I moved towards the conclusion that, yes, he had an unfeasibly large vocabulary -- or was unreasonably quick to reach for the thesaurus -- but he did it in order to achieve precision in meaning: why use a word that is nearly right, when there is one that is exactly right? Plus, it was part of his style, his reviewer's voice, if you will.\n\nSo to his first SF novel, then.  It is strange.  It is very, very strange.  It's a space opera set in our galaxy a few hundred years in the future.  There are humans and a range of aliens, plus various sentient AIs.  Much is made of the fact that humans smell: they have to keep away from other species, and avoid getting emotional when they do meet others, to keep their pheromone production under control.  No other sentient species suffers from this problem, it seems.  Furthermore, when humans meet each other, it is very unusual -- extremely rude, even -- to make eye contact.\n\nI don't know if Clute is trying to tell us something about our own society, here, but it seems to me that, with the state of technology on display, something would have been done about the smell, if it was really that much of a problem.  The eye-contact thing is just bizarre.  Maybe (since they exist in a state of close integrations with their computers, intelligent and not) it's a reference to the lack of direct personal contact that we get from our present interactions on the net.\n\nThose are relatively minor matters, though: what of the story?\n\nOur hero is Freer, who is a free trader, with his own ship, the <em>Tile Dance</em>.  It is staffed solely by him and run by a sentient pair of artificial Minds: KathKirt.  All AIs are bipartite; they manifest through Masks, which are said to 'face' 'Jack' or 'Flyte'.   I still don't understand what these are supposed to mean.  Did I mention that it's a strange book?\n\nThe galaxy is in danger from something called plaque, which appears to be a kind of plague causing a dementia-like effect in artificial Minds (and maybe in biological ones, too; that wasn't clear).  As things develop, it turns out that a passenger that Freer Has taken aboard knows the route to a legendary planet which is the source of 'Lenses', the only thing that can cure the data plague.\n\nThey have to run from the forces of the Insort Geront, who want to stop them getting the Lenses.  These are spacefaring luddites, in the form of multi-bodied (or at least multi-headed) quadrupeds (possibly) who are constantly eating live prey, including the younger members of their own families.\n\nOn the way they dock at an artificial moon, which turns out to be a legendary lost world.  Or something.\n\nThere's an awful lot going on in this book, and I can't honestly say that I understood all of it. But it's a fascinating read in many ways, and is worth the effort.  Recommended.</p></body></html>\n\n\n[^hst]: He may do so again: I've allowed my subscription to lapse in recent years, but in the latter years that I did subscribe, he had stopped reviewing there almost completely.\n\n",
 				"date_published": "2006-11-07T13:53:02+00:00",
 				"url": "https://devilgate.org/2006/11/07/book-notes-appleseed.html",
-				"tags": ["books","sf","books 2006","book notes 2006","john clute","clute","appleseed"]
+				"tags": ["books","sf","books 2006","book notes 2006","john clute","clute"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2006/11/01/book-notes-viriconium.html",
@@ -14077,7 +14133,7 @@
 				"content_text": "\n<html><body><h2>Eyes in the sky</h2>\n<p>There is a strange and mighty power to eye contact, it seems.</p>\n<p>I’m not talking about the effects of making — or not making — eye contact while talking to someone, though of course that does indeed have a great symbolic strength and communicative ability.  Rather, I’m talking about the effect of making eye contact at a distance; specifically while cycling.</p>\n<p>As you might imagine, cycling round the streets of London has its hazards.  It’s not as fraught with danger as some believe (fear of the dangers is one of the main reasons people give for why they don’t, or wouldn’t, cycle; which is a shame, because it’s good for the individual, and good for the environment), but that’s another discussion.</p>\n<p>Most potential problems can be avoided with a suitable degree of alertness.  But the necessary alertness isn’t all on the part of the cyclist: it’s important for other road users to be alert to the presence of cyclists, too.  Who remembers “Think once, think twice, think <em>bike!</em>“, the road-safety campaign on British TV during the seventies?  That was intended to make other road-users more aware of cyclists (and motorcyclists).</p>\n<p>That is where one of the biggest dangers lies: quite frankly, there are a lot of road users who just don’t notice cyclists.  And it’s not just the BMW  drivers and Royal Mail vans (in my experience the two most dangerous types of motorised vehicle, from a cyclist’s point of view (though all generalisations are false, of course)).</p>\n<p>No, any motor vehicle can be a problem, and pedestrians and even other cyclists are almost as bad.  Indeed , the two accidents I’ve had in all my years of cycling in London were both caused, at least in part, by pedestrians.  There is, however, a simple technique that can — almost magically, it sometimes seems — make other road users notice you.</p>\n<p>Look them in the eye.</p>\n<p>That’s it.  That’s all there is to it.  Just make eye contact with the driver, cyclist or pedestrian, and suddenly they realise you’re there.</p>\n<p>Which is not so surprising: it’s hard to <em>not</em> be aware of the presence of someone who is looking you in the eye.  What is strange, though, is the way in which it works at a distance.  You don’t have to be able to see the other person’s eyes, or even to see the person.  Innumerable times I have been hurtling along a road and seen a car or van about to pull out of a side road and smash into me (or at least, make me brake sharply).  I can’t see the driver because of distance or dark windows, but I aim a hard stare at the area where I know the driver’s head must be.  And the car (or van) suddenly brakes, and lets me sweep past.</p>\n<p>Similarly, a burst of laser-like staring swept across a group of pedestrians can stop them stepping off the kerb and into my path.  It’s quite remarkable, really.</p>\n<p>I’m reminded of the story of James Dean’s death.  He crashed his car into another car that was pulling out of a side road, and supposedly Dean said to his passenger, (who survived the crash), “It’s all right, he sees me.”</p>\n<p>Clearly, the other driver didn’t.  Perhaps if Dean had just tried looking at where the other driver’s eyes were, the strange, near-telepathic effect might have happened, and he could have lived to make many more films.</p>\n<p>The effect is, I suspect, related to the “feeling of being watched” that most people have experienced at some time.   There’s no obvious mechanism for it, but it does seem to be the case that, when someone is looking at us, we become aware of the fact.</p>\n<h2>Attention surfeit disorder?</h2>\n<p>When some one is looking at us, or is <em>paying attention to us</em>.  Which brings me to another angle on this.  That is the idea of <em>attention.</em>.  Up here in The Future, in the days of the development of “Web 2.0″ (which, by the way, is pronounced “two point zero”, not “two point oh”, as I heard them saying on <cite>Newsnight</cite> the other day; we are, after all, scientists) we are often told (though perhaps mainly by <a href=\"http://doc.weblogs.com/\">Doc Searls</a>) of how important our attention is.</p>\n<p>Indeed, the phrase “the <a href=\"http://www.firstmonday.dk/issues/issue2_4/goldhaber/\">attention economy</a>” is in use by some.  Of course, the expression “pay attention” has been around for a long time, but only now has attention taken on some of the other trappings of money.  We can “pay” for a web site’s services with our attention.  Any site with adverts effectively meets this model, though there are more direct examples, such as <a href=\"http://www.salon.com/\">Salon</a>‘s premium content, for which you can get a “day pass” by <a href=\"http://images.salon.com/src/pass/sitepass/demo2.html?x\">sitting through a short advert</a> — as an alternative to paying actual cash for a subscription.</p>\n<p>The force of our attention — of looking — is powerful in multiple ways.</p>\n<div class=\"simpletags\">Technorati Tags: <a rel=\"tag\" href=\"http://technorati.com/tag/attention\">attention</a>, <a rel=\"tag\" href=\"http://technorati.com/tag/attention%20economy\">attention economy</a>, <a rel=\"tag\" href=\"http://technorati.com/tag/web%202.0\">web 2.0</a>, <a rel=\"tag\" href=\"http://technorati.com/tag/cycling\">cycling</a>, <a rel=\"tag\" href=\"http://technorati.com/tag/eye%20contact\">eye contact</a>, <a rel=\"tag\" href=\"http://technorati.com/tag/doc%20searls\">doc searls</a></div>\n</body></html>\n",
 				"date_published": "2006-05-12T11:48:04+00:00",
 				"url": "https://devilgate.org/2006/05/12/eye-contact-or.html",
-				"tags": ["Life Writing","cycling","web 2.0","doc searls","attention","eye contact","attention economy"]
+				"tags": ["Life Writing","cycling","web 2.0","doc searls","eye contact"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2006/05/11/pachyderm-prestidigitation.html",
