@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2024/02/21/great-weve-been.html",
+				
+				"content_html": "<p>Great, we&rsquo;ve been paying billions for a nuclear &lsquo;deterrent&rsquo; that nobody wants and that<a href=\"https://www.theguardian.com/uk-news/2024/feb/21/labour-seeks-trident-assurances-after-missile-test-anomaly\">doesn&rsquo;t even work</a>.</p>\n",
+				"content_text": "Great, we've been paying billions for a nuclear 'deterrent' that nobody wants and that[doesn't even work](https://www.theguardian.com/uk-news/2024/feb/21/labour-seeks-trident-assurances-after-missile-test-anomaly).\n",
+				"date_published": "2024-02-21T08:10:48+00:00",
+				"url": "https://devilgate.org/2024/02/21/great-weve-been.html"
+			},
+			{
 				"id": "http://devilgate.micro.blog/2024/02/10/days-of-the.html",
 				"title": "Days of the Bagnold Summer, 2019 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://devilgate.micro.blog/2024/02/02/more-evidence-of.html",
 				
 				"content_html": "<p>More evidence of comically early spring: daffodils dancing in the sun.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "More evidence of comically early spring: daffodils dancing in the sun. \n\n<img src=\"uploads/2024/793d01812b.jpg\" width=\"600\" height=\"600\" alt=\"A group of daffodils growing in a flowerbed in late-winter sun, with a patio behind. \">\n",
+				"content_text": "More evidence of comically early spring: daffodils dancing in the sun. \n\n<img src=\"https://cdn.uploads.micro.blog/89068/2024/793d01812b.jpg\" width=\"600\" height=\"600\" alt=\"A group of daffodils growing in a flowerbed in late-winter sun, with a patio behind. \">\n",
 				"date_published": "2024-02-02T11:06:40+00:00",
 				"url": "https://devilgate.org/2024/02/02/more-evidence-of.html"
 			},
