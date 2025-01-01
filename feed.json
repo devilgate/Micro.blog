@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2025/01/01/happy-new-year-everyone-starts.html",
+				
+				"content_html": "<p>Happy New Year, everyone. 2025 starts with London’s fireworks, and then, surprisingly, The Boomtown Rats on <em>Hootenany</em>.</p>\n",
+				"content_text": "Happy New Year, everyone. 2025 starts with London’s fireworks, and then, surprisingly, The Boomtown Rats on _Hootenany_.\n",
+				"date_published": "2025-01-01T01:08:51+00:00",
+				"url": "https://devilgate.org/2025/01/01/happy-new-year-everyone-starts.html"
+			},
+			{
+				"id": "http://devilgate.micro.blog/2024/12/15/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781914953835\">A Jura for Julia</a> by Ken MacLeod 📚</p>\n<p>Short stories by Ken. I mentioned this in <a href=\"https://devilgate.org/2024/10/13/of-all-the.html\">my <!-- raw HTML omitted -->Nineteen Eighty-Four<!-- raw HTML omitted --> post</a>, since the first and last stories are inspired by Orwell&rsquo;s novel. The last being the title story.</p>\n<p>Both they, and the others, are very good. Ken&rsquo;s usual concerns are here, of course: the future, politics, Scotland, and more.</p>\n<p>Also the cover and internal illustrations are by Fangorn. Highly recommended.</p>\n<hr>\n<p>Books 2024, 24</p>\n",
+				"content_text": "Finished reading: [A Jura for Julia](https://micro.blog/books/9781914953835) by Ken MacLeod 📚\n\nShort stories by Ken. I mentioned this in [my <cite>Nineteen Eighty-Four</cite> post](https://devilgate.org/2024/10/13/of-all-the.html), since the first and last stories are inspired by Orwell's novel. The last being the title story.\n\nBoth they, and the others, are very good. Ken's usual concerns are here, of course: the future, politics, Scotland, and more.\n\nAlso the cover and internal illustrations are by Fangorn. Highly recommended.\n\n---\n\nBooks 2024, 24\n",
+				"date_published": "2024-12-15T16:44:08+00:00",
+				"url": "https://devilgate.org/2024/12/15/finished-reading-a.html",
+				"tags": ["books","Ken MacLeod","sf","books 2024"]
+			},
+			{
 				"id": "http://devilgate.micro.blog/2024/12/15/conclave.html",
 				"title": "Conclave, 2024 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -35,7 +52,7 @@
 				"id": "http://devilgate.micro.blog/2024/12/10/dirty-rotten-scoundrels.html",
 				"title": "Dirty Rotten Scoundrels, 1988 - ★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2024/46508-dirty-rotten-scoundrels-0-600-0-900-crop.jpg.jpg\"/></p> <p>Daft film about con men. I think I saw it back when it came out, but didn't really remember it.</p><p>I'm a week or so behind with posting this.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/89068/2024/46508-dirty-rotten-scoundrels-0-600-0-900-crop.jpg.jpg\"/></p> <p>Daft film about con men. I think I saw it back when it came out, but didn't really remember it.</p><p>I'm a week or so behind with posting this.</p>\n",
 				"date_published": "2024-12-10T23:20:23+00:00",
 				"url": "https://devilgate.org/2024/12/10/dirty-rotten-scoundrels.html"
 			},
