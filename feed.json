@@ -7,8 +7,17 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2026/01/06/watched-a-few-good-men/",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/881\">A Few Good Men</a> 🎥</p>\n<p>I&rsquo;m trying the Micro.blog films feature, for more control than the Letterboxd RSS feed.</p>\n<p>We introduced our daughter to <!-- raw HTML omitted -->The West Wing<!-- raw HTML omitted --> over the last few months, and needed more Sorkin. Also RIP Rob Reiner. It&rsquo;s a great film. I&rsquo;d give it four stars if this had them.</p>\n",
+				"content_text": "Watched: [A Few Good Men](https://www.themoviedb.org/movie/881) 🎥\n\nI'm trying the Micro.blog films feature, for more control than the Letterboxd RSS feed.\n\nWe introduced our daughter to <cite>The West Wing</cite> over the last few months, and needed more Sorkin. Also RIP Rob Reiner. It's a great film. I'd give it four stars if this had them.\n",
+				"date_published": "2026-01-06T23:26:49+00:00",
+				"url": "https://devilgate.org/2026/01/06/watched-a-few-good-men/",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://devilgate.micro.blog/2026/01/05/bowie-the-final-act/",
-				"title": "Bowie: The Final Act",
+				"title": "Bowie: The Final Act 🎥",
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1571485\">Bowie: The Final Act</a> 🎥</p>\n<p>Very good documentary about Bowie, starting approximately with <!-- raw HTML omitted -->Young Americans<!-- raw HTML omitted --> and moving forward — though moving back and forward in time. A lot of focus on the years in which he (hushed tones) <em>wasn&rsquo;t cool!</em></p>\n<p>Interviews with Reeves Gabrels of Tin Machine, Earl Slick, Tony Visconti and others. Well worth a watch.</p>\n",
 				"content_text": "Watched: [Bowie: The Final Act](https://www.themoviedb.org/movie/1571485) 🎥\n\nVery good documentary about Bowie, starting approximately with <cite>Young Americans</cite> and moving forward — though moving back and forward in time. A lot of focus on the years in which he (hushed tones) _wasn't cool!_\n\nInterviews with Reeves Gabrels of Tin Machine, Earl Slick, Tony Visconti and others. Well worth a watch.\n",
 				"date_published": "2026-01-05T23:27:06+00:00",
@@ -100,7 +109,7 @@
 				"id": "http://devilgate.micro.blog/2025/12/05/bringing-up-baby/",
 				"title": "Bringing Up Baby, 1938 - ★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/51252-bringing-up-baby-0-600-0-900-crop.jpg\"/></p> <p>We tried to watch this several months ago and it was so annoying we gave up after a few minutes. But it turns up on so many lists of best comedies, we thought we'd give it another chance.</p><p>Which maybe wasn't a mistake, but wasn't a great use of our time.</p><p>It's not <em>terrible</em>, but it's pretty poor. Rich people being daft, and all the comedy relies on no one communicating even close to sensibly. </p><p>But it has a few moments, and there's a collapsing brontosaurus at the end. Sorry if that's a spoiler for you.</p>\n",
+				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/89068/2025/51252-bringing-up-baby-0-600-0-900-crop.jpg\"/></p> <p>We tried to watch this several months ago and it was so annoying we gave up after a few minutes. But it turns up on so many lists of best comedies, we thought we'd give it another chance.</p><p>Which maybe wasn't a mistake, but wasn't a great use of our time.</p><p>It's not <em>terrible</em>, but it's pretty poor. Rich people being daft, and all the comedy relies on no one communicating even close to sensibly. </p><p>But it has a few moments, and there's a collapsing brontosaurus at the end. Sorry if that's a spoiler for you.</p>\n",
 				"date_published": "2025-12-05T17:50:37+00:00",
 				"url": "https://devilgate.org/2025/12/05/bringing-up-baby/",
 				"tags": ["Longform"]
@@ -586,7 +595,7 @@
 				"id": "http://devilgate.micro.blog/2025/06/16/everything-everywhere-all-at-once/",
 				"title": "Everything Everywhere All at Once, 2022 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://eu.uploads.micro.blog/89068/2025/15d4c5d030.jpg\"/></p> <p>After <a href=\"https://devilgate.org/2023/04/19/everything-everywhere-all-at-once/\"> watching this in Paris with French subtitles</a>, I finally managed to see it again. This time on a plane to Canada. </p><p>It holds up really well on a second viewing. The Air Canada seatback screens were pretty good. And this time I was able to get all the jokes and nuances in the non-English parts. </p><p>I love this film.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/15d4c5d030.jpg\"/></p> <p>After <a href=\"https://devilgate.org/2023/04/19/everything-everywhere-all-at-once/\"> watching this in Paris with French subtitles</a>, I finally managed to see it again. This time on a plane to Canada. </p><p>It holds up really well on a second viewing. The Air Canada seatback screens were pretty good. And this time I was able to get all the jokes and nuances in the non-English parts. </p><p>I love this film.</p>\n",
 				"date_published": "2025-06-16T17:34:29+00:00",
 				"url": "https://devilgate.org/2025/06/16/everything-everywhere-all-at-once/",
 				"tags": ["Longform"]
