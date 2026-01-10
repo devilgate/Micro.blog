@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2026/01/10/going-to-see-the-book/",
+				
+				"content_html": "<p>Going to see <!-- raw HTML omitted -->The Book of Mormon<!-- raw HTML omitted --> tonight. I&rsquo;ve no real idea what it&rsquo;s about, which may be the best way to approach it, I don&rsquo;t know.</p>\n",
+				"content_text": "Going to see <cite>The Book of Mormon</cite> tonight. I've no real idea what it's about, which may be the best way to approach it, I don't know.\n",
+				"date_published": "2026-01-10T15:49:29+00:00",
+				"url": "https://devilgate.org/2026/01/10/going-to-see-the-book/",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://devilgate.micro.blog/2026/01/09/the-american-president/",
+				"title": "The American President 🎥",
+				"content_html": "<p><a href=\"https://www.themoviedb.org/movie/9087\">The American President</a> is another Sorkin/Reiner collab, and another one we watched over the Christmas break.</p>\n<p>it’s also Sorkin’s dry run for <!-- raw HTML omitted -->The West Wing<!-- raw HTML omitted -->, being the story of — well, you can guess the post of the main character.</p>\n<p>it’s pretty good. Feels weird, having Martin Sheen in the Leo role, but you get used to it.</p>\n",
+				"content_text": "[The American President](https://www.themoviedb.org/movie/9087) is another Sorkin/Reiner collab, and another one we watched over the Christmas break. \n\nit’s also Sorkin’s dry run for <xite>The West Wing</cite>, being the story of — well, you can guess the post of the main character. \n\nit’s pretty good. Feels weird, having Martin Sheen in the Leo role, but you get used to it. \n",
+				"date_published": "2026-01-09T23:48:28+00:00",
+				"url": "https://devilgate.org/2026/01/09/the-american-president/",
+				"tags": ["Longform"]
+			},
+			{
 				"id": "http://devilgate.micro.blog/2026/01/08/very-weird-im-trying-to/",
 				
 				"content_html": "<p>Very weird. I&rsquo;m trying to sign in to YouTube on my Mac. The signin page gets intercepted by Microsoft&rsquo;s SSO page, which wants me to log on with my <a href=\"https://www.citylit.ac.uk\">City Lit</a> account. I did a course there last term. They used Google Classroom, so that was the last way I signed in to anything Google. But I want to sign in with my <em>Google</em> account.</p>\n",
