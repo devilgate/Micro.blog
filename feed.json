@@ -7,13 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://devilgate.micro.blog/2026/11/21/turns-out-when-youre-brushing/",
+				
+				"content_html": "<p>Turns out when you’re brushing your teeth and you drop your phone in the basin, you can get this result, meaning you can’t charge your phone overnight.</p>\n<p>Quite impressive, though.</p>\n<img src=\"uploads/2026/7039301c-ab0c-41e6-b40e-482b82050747.png\" width=\"277\" height=\"600\" alt=\"The ‘Connected’ podcast episode, ‘Shoutout to Grayscale’ is playing at 22:46 on Friday, 20 November, while a warning indicates that charging is unavailable due to liquid detected in the Lightning connector.\">\n",
+				"content_text": "Turns out when you’re brushing your teeth and you drop your phone in the basin, you can get this result, meaning you can’t charge your phone overnight.\n\nQuite impressive, though. \n\n<img src=\"uploads/2026/7039301c-ab0c-41e6-b40e-482b82050747.png\" width=\"277\" height=\"600\" alt=\"The ‘Connected’ podcast episode, ‘Shoutout to Grayscale’ is playing at 22:46 on Friday, 20 November, while a warning indicates that charging is unavailable due to liquid detected in the Lightning connector.\">\n",
+				"date_published": "2026-11-21T08:56:35+00:00",
+				"url": "https://devilgate.org/2026/11/21/turns-out-when-youre-brushing/",
+				"tags": ["books","Microposts"]
+			},
+			{
 				"id": "http://devilgate.micro.blog/2026/11/17/apparently-grotesque-after-the-gramme/",
 				
-				"content_html": "<p>Apparently <em>Grotesque (After the Gramme)</em> was released 46 years ago today. This is a screenshot from a new Apple Music player app called Crate, which reveals such things.</p>\n<img src=\"uploads/2026/temporaryimage.png\" width=\"277\" height=\"600\" alt=\"\">\n",
-				"content_text": "Apparently _Grotesque (After the Gramme)_ was released 46 years ago today. This is a screenshot from a new Apple Music player app called Crate, which reveals such things. \n\n<img src=\"uploads/2026/temporaryimage.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Apparently <cite>Grotesque (After the Gramme)</cite> was released 46 years ago today. This is a screenshot from a new Apple Music player app called Crate, which reveals such things.</p>\n<img src=\"uploads/2026/temporaryimage.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Apparently <cite>Grotesque (After the Gramme)</cite> was released 46 years ago today. This is a screenshot from a new Apple Music player app called Crate, which reveals such things. \n\n<img src=\"uploads/2026/temporaryimage.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-11-17T17:03:18+00:00",
 				"url": "https://devilgate.org/2026/11/17/apparently-grotesque-after-the-gramme/",
-				"tags": ["Microposts"]
+				"tags": ["music","Microposts"]
 			},
 			{
 				"id": "http://devilgate.micro.blog/2026/11/13/whats-expression-about-eggs-and/",
